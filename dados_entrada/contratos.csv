@@ -1,0 +1,1001 @@
+id_pessoa;matricula;cargo;data_admissao;situacao
+1;100001;Analista;2024-01-15;Ativo
+2;100002;Técnico Administrativo;1992-01-21;Afastado
+3;100003;Policial Militar;2024-06-19;Ativo
+4;100004;Professor;2012-11-09;Inativo
+5;100005;Analista;2022-05-23;Afastado
+6;100006;Técnico Administrativo;2022-10-31;Inativo
+7;100007;Analista;2016-05-22;Afastado
+8;100008;Delegado;2008-06-10;Inativo
+9;100009;Técnico Administrativo;2023-10-21;Ativo
+10;100010;Policial Militar;1992-07-25;Ativo
+11;100011;Médico;2020-01-16;Afastado
+12;100012;Agente Administrativo;2021-07-23;Inativo
+13;100013;Policial Militar;2024-08-04;Ativo
+14;100014;Delegado;2017-11-03;Afastado
+15;100015;Delegado;2004-09-22;Inativo
+16;100016;Enfermeiro;1991-12-29;Afastado
+17;100017;Gestor Público;2003-07-02;Inativo
+18;100018;Analista;1992-01-28;Ativo
+19;100019;Agente Administrativo;2016-09-16;Inativo
+20;100020;Médico;2007-03-08;Afastado
+21;100021;Gestor Público;1999-11-23;Inativo
+22;100022;Médico;2010-05-25;Inativo
+23;100023;Médico;2010-11-11;Afastado
+24;100024;Delegado;2019-09-04;Inativo
+25;100025;Soldado;2000-12-09;Inativo
+26;100026;Analista;1994-03-05;Inativo
+27;100027;Soldado;2002-05-28;Afastado
+28;100028;Professor;1992-04-21;Inativo
+29;100029;Gestor Público;2017-11-09;Ativo
+30;100030;Enfermeiro;2025-05-04;Afastado
+31;100031;Delegado;2022-12-13;Inativo
+32;100032;Policial Militar;2008-06-19;Afastado
+33;100033;Analista;1999-02-18;Inativo
+34;100034;Soldado;2000-12-07;Inativo
+35;100035;Delegado;2010-06-05;Inativo
+36;100036;Professor;1993-05-10;Inativo
+37;100037;Analista;2004-07-20;Ativo
+38;100038;Professor;1993-04-25;Inativo
+39;100039;Enfermeiro;2024-10-18;Ativo
+40;100040;Professor;2001-07-12;Inativo
+41;100041;Gestor Público;2015-03-09;Inativo
+42;100042;Soldado;2017-08-13;Inativo
+43;100043;Médico;1993-01-29;Afastado
+44;100044;Analista;1995-09-08;Afastado
+45;100045;Policial Militar;2017-04-15;Ativo
+46;100046;Delegado;2022-09-23;Ativo
+47;100047;Gestor Público;2004-01-07;Inativo
+48;100048;Analista;1998-02-20;Ativo
+49;100049;Delegado;2011-10-15;Afastado
+50;100050;Técnico Administrativo;1990-05-07;Inativo
+51;100051;Professor;2017-09-23;Inativo
+52;100052;Técnico Administrativo;1996-07-27;Inativo
+53;100053;Enfermeiro;2010-09-18;Inativo
+54;100054;Policial Militar;2022-01-16;Ativo
+55;100055;Professor;2004-12-14;Ativo
+56;100056;Médico;2000-02-29;Ativo
+57;100057;Médico;2013-12-15;Ativo
+58;100058;Técnico Administrativo;2024-03-25;Ativo
+59;100059;Enfermeiro;2011-03-12;Afastado
+60;100060;Técnico Administrativo;2012-06-03;Afastado
+61;100061;Delegado;2011-02-02;Ativo
+62;100062;Analista;2025-06-27;Ativo
+63;100063;Agente Administrativo;2001-12-18;Ativo
+64;100064;Técnico Administrativo;2020-02-09;Afastado
+65;100065;Policial Militar;2007-11-09;Inativo
+66;100066;Técnico Administrativo;2014-09-03;Afastado
+67;100067;Agente Administrativo;2008-06-05;Inativo
+68;100068;Agente Administrativo;2002-09-28;Ativo
+69;100069;Gestor Público;2008-09-08;Afastado
+70;100070;Policial Militar;2013-02-06;Afastado
+71;100071;Analista;1994-01-15;Inativo
+72;100072;Policial Militar;2014-10-26;Inativo
+73;100073;Policial Militar;2011-04-02;Afastado
+74;100074;Gestor Público;2003-10-20;Afastado
+75;100075;Delegado;2020-12-22;Ativo
+76;100076;Enfermeiro;2000-02-02;Inativo
+77;100077;Médico;2014-02-28;Inativo
+78;100078;Policial Militar;2002-10-21;Afastado
+79;100079;Agente Administrativo;2013-07-09;Inativo
+80;100080;Professor;1996-04-22;Inativo
+81;100081;Enfermeiro;2006-06-27;Afastado
+82;100082;Agente Administrativo;1999-01-26;Afastado
+83;100083;Gestor Público;1993-04-11;Ativo
+84;100084;Agente Administrativo;1995-09-18;Afastado
+85;100085;Analista;2010-01-10;Afastado
+86;100086;Agente Administrativo;2016-07-16;Afastado
+87;100087;Delegado;2014-12-31;Afastado
+88;100088;Enfermeiro;1990-09-09;Ativo
+89;100089;Policial Militar;2004-01-14;Inativo
+90;100090;Professor;1996-04-12;Afastado
+91;100091;Agente Administrativo;2014-09-30;Inativo
+92;100092;Médico;2021-04-11;Ativo
+93;100093;Enfermeiro;1992-02-02;Ativo
+94;100094;Técnico Administrativo;2009-08-10;Ativo
+95;100095;Delegado;2021-12-04;Afastado
+96;100096;Técnico Administrativo;2016-10-11;Afastado
+97;100097;Soldado;2025-02-09;Ativo
+98;100098;Médico;2011-06-28;Inativo
+99;100099;Professor;2018-05-30;Inativo
+100;100100;Gestor Público;2018-12-08;Afastado
+101;100101;Técnico Administrativo;2022-10-02;Ativo
+102;100102;Policial Militar;2015-02-11;Inativo
+103;100103;Médico;2010-07-11;Ativo
+104;100104;Professor;2012-11-30;Inativo
+105;100105;Soldado;2008-05-09;Afastado
+106;100106;Agente Administrativo;2023-12-13;Ativo
+107;100107;Gestor Público;2005-09-26;Afastado
+108;100108;Enfermeiro;2018-03-01;Inativo
+109;100109;Enfermeiro;2005-02-24;Afastado
+110;100110;Analista;2007-10-12;Afastado
+111;100111;Técnico Administrativo;2004-01-21;Inativo
+112;100112;Policial Militar;2025-06-27;Ativo
+113;100113;Técnico Administrativo;2013-09-12;Ativo
+114;100114;Agente Administrativo;2014-02-12;Afastado
+115;100115;Enfermeiro;2019-11-18;Afastado
+116;100116;Soldado;2012-11-29;Inativo
+117;100117;Médico;2008-09-02;Afastado
+118;100118;Enfermeiro;2023-03-06;Afastado
+119;100119;Soldado;1992-09-08;Ativo
+120;100120;Soldado;2002-03-14;Ativo
+121;100121;Médico;2004-09-14;Ativo
+122;100122;Policial Militar;2020-10-14;Afastado
+123;100123;Professor;2002-05-03;Inativo
+124;100124;Agente Administrativo;2025-01-20;Inativo
+125;100125;Analista;2024-04-10;Ativo
+126;100126;Médico;1990-11-23;Afastado
+127;100127;Professor;2022-11-07;Inativo
+128;100128;Técnico Administrativo;2012-04-04;Ativo
+129;100129;Policial Militar;2014-06-30;Inativo
+130;100130;Delegado;2019-04-28;Ativo
+131;100131;Gestor Público;2011-07-19;Ativo
+132;100132;Médico;2002-01-18;Afastado
+133;100133;Gestor Público;2020-05-23;Afastado
+134;100134;Analista;2025-04-13;Afastado
+135;100135;Professor;2017-09-25;Afastado
+136;100136;Médico;2009-10-25;Ativo
+137;100137;Policial Militar;2010-10-28;Afastado
+138;100138;Médico;2020-05-26;Ativo
+139;100139;Técnico Administrativo;1990-05-01;Afastado
+140;100140;Analista;2019-05-27;Inativo
+141;100141;Policial Militar;2019-05-11;Ativo
+142;100142;Professor;1996-02-29;Ativo
+143;100143;Soldado;2007-03-13;Ativo
+144;100144;Agente Administrativo;2005-02-26;Inativo
+145;100145;Analista;2020-12-09;Ativo
+146;100146;Médico;2017-04-26;Ativo
+147;100147;Médico;2010-06-28;Inativo
+148;100148;Técnico Administrativo;2007-12-24;Inativo
+149;100149;Soldado;1992-01-24;Ativo
+150;100150;Professor;1993-05-11;Inativo
+151;100151;Agente Administrativo;2014-08-19;Ativo
+152;100152;Enfermeiro;2014-07-27;Afastado
+153;100153;Agente Administrativo;1996-01-15;Inativo
+154;100154;Professor;1996-03-13;Inativo
+155;100155;Delegado;1990-07-29;Afastado
+156;100156;Agente Administrativo;2025-03-08;Afastado
+157;100157;Professor;2022-12-22;Afastado
+158;100158;Agente Administrativo;1999-11-13;Ativo
+159;100159;Médico;1991-10-16;Afastado
+160;100160;Médico;2020-01-26;Afastado
+161;100161;Delegado;2009-06-04;Inativo
+162;100162;Médico;1996-02-13;Afastado
+163;100163;Professor;1998-04-03;Ativo
+164;100164;Policial Militar;2011-10-18;Inativo
+165;100165;Soldado;2014-09-30;Ativo
+166;100166;Delegado;2000-01-07;Afastado
+167;100167;Policial Militar;2000-07-01;Ativo
+168;100168;Policial Militar;2005-06-24;Inativo
+169;100169;Gestor Público;1997-03-26;Afastado
+170;100170;Soldado;2011-08-10;Ativo
+171;100171;Professor;2011-05-07;Afastado
+172;100172;Professor;2001-06-02;Inativo
+173;100173;Agente Administrativo;2008-12-31;Afastado
+174;100174;Delegado;2025-04-06;Inativo
+175;100175;Soldado;1990-06-25;Ativo
+176;100176;Agente Administrativo;2002-10-06;Afastado
+177;100177;Delegado;2015-04-06;Inativo
+178;100178;Agente Administrativo;1998-01-03;Inativo
+179;100179;Soldado;2006-08-26;Afastado
+180;100180;Analista;1990-07-13;Afastado
+181;100181;Gestor Público;1995-11-19;Afastado
+182;100182;Técnico Administrativo;2020-12-22;Ativo
+183;100183;Soldado;2024-10-02;Afastado
+184;100184;Policial Militar;2023-07-20;Afastado
+185;100185;Técnico Administrativo;2019-05-17;Inativo
+186;100186;Delegado;2013-06-25;Afastado
+187;100187;Delegado;2003-02-21;Afastado
+188;100188;Técnico Administrativo;1998-03-08;Ativo
+189;100189;Soldado;1999-09-29;Inativo
+190;100190;Soldado;2022-12-26;Ativo
+191;100191;Delegado;2025-05-26;Ativo
+192;100192;Médico;1990-12-16;Afastado
+193;100193;Enfermeiro;2014-04-18;Inativo
+194;100194;Agente Administrativo;2019-07-23;Ativo
+195;100195;Técnico Administrativo;2010-12-30;Afastado
+196;100196;Agente Administrativo;2008-08-16;Afastado
+197;100197;Médico;2015-04-06;Afastado
+198;100198;Gestor Público;2015-08-23;Ativo
+199;100199;Analista;2022-10-13;Afastado
+200;100200;Gestor Público;2012-08-22;Ativo
+201;100201;Agente Administrativo;2017-08-19;Afastado
+202;100202;Médico;1998-12-16;Afastado
+203;100203;Professor;2021-03-07;Afastado
+204;100204;Policial Militar;2011-09-28;Afastado
+205;100205;Agente Administrativo;2002-07-27;Ativo
+206;100206;Enfermeiro;2020-11-19;Afastado
+207;100207;Analista;2024-03-14;Afastado
+208;100208;Delegado;2024-04-18;Ativo
+209;100209;Agente Administrativo;1994-11-27;Inativo
+210;100210;Soldado;1994-01-21;Afastado
+211;100211;Agente Administrativo;2017-06-16;Ativo
+212;100212;Soldado;2012-04-28;Inativo
+213;100213;Analista;2019-12-03;Afastado
+214;100214;Técnico Administrativo;2003-02-19;Inativo
+215;100215;Professor;2017-07-22;Afastado
+216;100216;Enfermeiro;2001-05-31;Ativo
+217;100217;Soldado;2025-03-02;Inativo
+218;100218;Técnico Administrativo;2025-02-03;Inativo
+219;100219;Policial Militar;2011-09-09;Afastado
+220;100220;Enfermeiro;2018-08-28;Ativo
+221;100221;Gestor Público;2000-12-25;Ativo
+222;100222;Gestor Público;1995-11-30;Ativo
+223;100223;Professor;2002-08-30;Inativo
+224;100224;Gestor Público;2025-04-26;Inativo
+225;100225;Gestor Público;2023-11-13;Afastado
+226;100226;Enfermeiro;1992-10-19;Inativo
+227;100227;Enfermeiro;2020-01-22;Ativo
+228;100228;Gestor Público;2012-05-06;Afastado
+229;100229;Médico;2011-03-12;Afastado
+230;100230;Enfermeiro;1992-10-03;Afastado
+231;100231;Policial Militar;1997-11-13;Inativo
+232;100232;Delegado;2011-05-13;Inativo
+233;100233;Enfermeiro;1994-05-30;Inativo
+234;100234;Gestor Público;1994-02-15;Ativo
+235;100235;Delegado;2007-06-07;Inativo
+236;100236;Soldado;1990-11-04;Inativo
+237;100237;Policial Militar;2020-08-02;Inativo
+238;100238;Analista;1998-08-30;Ativo
+239;100239;Soldado;2019-05-01;Ativo
+240;100240;Delegado;2004-07-18;Ativo
+241;100241;Analista;1990-04-29;Ativo
+242;100242;Médico;1998-08-11;Ativo
+243;100243;Analista;1994-09-07;Afastado
+244;100244;Médico;1993-04-19;Inativo
+245;100245;Professor;2024-02-09;Inativo
+246;100246;Gestor Público;1996-09-06;Afastado
+247;100247;Enfermeiro;1997-04-04;Afastado
+248;100248;Técnico Administrativo;2017-10-31;Inativo
+249;100249;Médico;2004-05-17;Inativo
+250;100250;Delegado;1998-01-08;Inativo
+251;100251;Delegado;2015-12-17;Inativo
+252;100252;Professor;1997-11-13;Afastado
+253;100253;Delegado;2012-05-27;Ativo
+254;100254;Médico;2010-01-02;Inativo
+255;100255;Delegado;2006-08-01;Inativo
+256;100256;Agente Administrativo;2005-01-17;Ativo
+257;100257;Professor;2001-10-13;Inativo
+258;100258;Gestor Público;1992-08-16;Ativo
+259;100259;Técnico Administrativo;2013-12-21;Afastado
+260;100260;Técnico Administrativo;1995-11-21;Ativo
+261;100261;Analista;2024-10-01;Inativo
+262;100262;Gestor Público;2005-08-08;Inativo
+263;100263;Técnico Administrativo;1998-02-11;Inativo
+264;100264;Enfermeiro;2020-10-26;Inativo
+265;100265;Médico;2005-03-11;Ativo
+266;100266;Técnico Administrativo;2023-02-05;Ativo
+267;100267;Agente Administrativo;1990-10-17;Ativo
+268;100268;Soldado;2011-05-08;Afastado
+269;100269;Delegado;2005-10-04;Ativo
+270;100270;Gestor Público;2007-07-05;Inativo
+271;100271;Gestor Público;2023-04-29;Ativo
+272;100272;Professor;1990-11-01;Afastado
+273;100273;Professor;2001-07-03;Afastado
+274;100274;Analista;1993-10-07;Inativo
+275;100275;Médico;2008-12-20;Ativo
+276;100276;Analista;2023-03-04;Afastado
+277;100277;Analista;2002-04-17;Ativo
+278;100278;Gestor Público;1993-09-09;Ativo
+279;100279;Gestor Público;2018-02-09;Ativo
+280;100280;Enfermeiro;2023-06-26;Inativo
+281;100281;Delegado;2020-10-23;Ativo
+282;100282;Professor;2015-02-06;Ativo
+283;100283;Policial Militar;2009-07-19;Ativo
+284;100284;Soldado;1995-01-18;Afastado
+285;100285;Delegado;2006-10-04;Afastado
+286;100286;Delegado;1994-02-25;Inativo
+287;100287;Soldado;2002-01-16;Afastado
+288;100288;Professor;2020-09-11;Inativo
+289;100289;Professor;2025-04-07;Ativo
+290;100290;Professor;2019-06-02;Inativo
+291;100291;Técnico Administrativo;2003-07-02;Inativo
+292;100292;Agente Administrativo;2003-01-17;Ativo
+293;100293;Enfermeiro;2022-07-30;Ativo
+294;100294;Soldado;1994-07-12;Inativo
+295;100295;Agente Administrativo;2001-12-31;Ativo
+296;100296;Policial Militar;1996-03-07;Ativo
+297;100297;Agente Administrativo;2025-08-23;Afastado
+298;100298;Analista;2002-07-20;Afastado
+299;100299;Agente Administrativo;2005-04-14;Afastado
+300;100300;Gestor Público;2022-01-21;Afastado
+301;100301;Soldado;1993-07-03;Inativo
+302;100302;Agente Administrativo;2006-07-27;Ativo
+303;100303;Analista;1995-06-28;Afastado
+304;100304;Médico;2007-09-27;Inativo
+305;100305;Enfermeiro;2025-04-17;Ativo
+306;100306;Enfermeiro;1996-06-17;Ativo
+307;100307;Gestor Público;2000-08-10;Inativo
+308;100308;Médico;2025-02-12;Ativo
+309;100309;Agente Administrativo;2015-04-05;Ativo
+310;100310;Soldado;1990-03-12;Ativo
+311;100311;Enfermeiro;2020-07-12;Afastado
+312;100312;Gestor Público;2015-05-09;Ativo
+313;100313;Soldado;2006-03-20;Afastado
+314;100314;Analista;2011-07-13;Inativo
+315;100315;Técnico Administrativo;2025-02-08;Ativo
+316;100316;Gestor Público;1994-07-18;Inativo
+317;100317;Enfermeiro;2016-03-21;Inativo
+318;100318;Médico;2025-03-23;Ativo
+319;100319;Soldado;2022-12-14;Inativo
+320;100320;Professor;2005-03-30;Afastado
+321;100321;Médico;2013-11-21;Inativo
+322;100322;Professor;2012-10-25;Inativo
+323;100323;Gestor Público;1997-01-19;Inativo
+324;100324;Soldado;2000-06-27;Inativo
+325;100325;Enfermeiro;1990-05-20;Inativo
+326;100326;Médico;2009-09-05;Inativo
+327;100327;Gestor Público;2007-07-15;Inativo
+328;100328;Médico;2000-06-15;Inativo
+329;100329;Gestor Público;2003-12-03;Afastado
+330;100330;Delegado;2017-07-01;Ativo
+331;100331;Técnico Administrativo;2012-08-17;Inativo
+332;100332;Agente Administrativo;2019-06-22;Ativo
+333;100333;Soldado;2021-04-03;Ativo
+334;100334;Delegado;2012-12-27;Ativo
+335;100335;Gestor Público;2006-07-21;Ativo
+336;100336;Soldado;2007-02-25;Afastado
+337;100337;Policial Militar;1996-01-09;Inativo
+338;100338;Médico;1992-05-03;Afastado
+339;100339;Enfermeiro;2025-01-17;Inativo
+340;100340;Enfermeiro;2010-05-07;Inativo
+341;100341;Técnico Administrativo;2007-04-06;Afastado
+342;100342;Gestor Público;2019-09-22;Ativo
+343;100343;Delegado;2021-05-10;Inativo
+344;100344;Analista;2023-08-22;Ativo
+345;100345;Técnico Administrativo;1999-06-21;Afastado
+346;100346;Professor;1991-02-25;Afastado
+347;100347;Delegado;2011-05-11;Afastado
+348;100348;Professor;2023-10-16;Afastado
+349;100349;Médico;2000-01-11;Inativo
+350;100350;Agente Administrativo;2019-10-10;Afastado
+351;100351;Enfermeiro;2021-08-02;Inativo
+352;100352;Delegado;1994-05-14;Ativo
+353;100353;Técnico Administrativo;2005-12-13;Inativo
+354;100354;Técnico Administrativo;1995-03-26;Ativo
+355;100355;Analista;2007-08-31;Afastado
+356;100356;Enfermeiro;2006-04-23;Afastado
+357;100357;Enfermeiro;1999-08-28;Ativo
+358;100358;Gestor Público;1997-05-11;Inativo
+359;100359;Médico;2006-12-26;Ativo
+360;100360;Enfermeiro;1990-06-05;Afastado
+361;100361;Delegado;2024-07-26;Inativo
+362;100362;Analista;2022-01-13;Inativo
+363;100363;Técnico Administrativo;2003-01-05;Inativo
+364;100364;Analista;1994-07-19;Inativo
+365;100365;Policial Militar;2023-07-07;Inativo
+366;100366;Professor;1994-12-03;Ativo
+367;100367;Enfermeiro;2021-06-11;Ativo
+368;100368;Enfermeiro;2021-05-29;Afastado
+369;100369;Soldado;2002-07-27;Afastado
+370;100370;Técnico Administrativo;1995-11-08;Afastado
+371;100371;Soldado;2018-04-03;Afastado
+372;100372;Agente Administrativo;2024-12-17;Inativo
+373;100373;Enfermeiro;1991-10-03;Afastado
+374;100374;Médico;2022-10-08;Inativo
+375;100375;Professor;2010-08-10;Ativo
+376;100376;Delegado;1990-12-06;Ativo
+377;100377;Professor;2000-12-08;Ativo
+378;100378;Técnico Administrativo;2000-01-27;Ativo
+379;100379;Enfermeiro;2021-11-28;Ativo
+380;100380;Gestor Público;2025-08-05;Afastado
+381;100381;Policial Militar;2015-01-18;Inativo
+382;100382;Técnico Administrativo;2011-05-23;Afastado
+383;100383;Analista;2017-02-06;Ativo
+384;100384;Técnico Administrativo;2021-01-22;Inativo
+385;100385;Analista;2023-12-08;Inativo
+386;100386;Professor;2021-07-09;Afastado
+387;100387;Agente Administrativo;2024-06-24;Inativo
+388;100388;Policial Militar;1997-08-12;Inativo
+389;100389;Agente Administrativo;2018-01-07;Inativo
+390;100390;Agente Administrativo;2010-11-08;Ativo
+391;100391;Gestor Público;2024-09-23;Inativo
+392;100392;Técnico Administrativo;2009-03-23;Inativo
+393;100393;Professor;2012-05-27;Inativo
+394;100394;Policial Militar;2006-04-27;Ativo
+395;100395;Enfermeiro;2019-08-03;Afastado
+396;100396;Médico;2011-01-24;Ativo
+397;100397;Gestor Público;2009-04-16;Ativo
+398;100398;Médico;1994-03-08;Ativo
+399;100399;Analista;2002-05-03;Ativo
+400;100400;Técnico Administrativo;1999-06-08;Afastado
+401;100401;Agente Administrativo;1991-01-13;Afastado
+402;100402;Médico;2020-10-26;Afastado
+403;100403;Analista;2012-12-09;Inativo
+404;100404;Soldado;2015-06-16;Inativo
+405;100405;Enfermeiro;2008-11-23;Ativo
+406;100406;Delegado;2022-06-11;Inativo
+407;100407;Professor;1993-12-13;Ativo
+408;100408;Agente Administrativo;2013-09-01;Ativo
+409;100409;Técnico Administrativo;2005-04-09;Ativo
+410;100410;Técnico Administrativo;2023-06-03;Ativo
+411;100411;Técnico Administrativo;1992-03-16;Afastado
+412;100412;Técnico Administrativo;2013-11-14;Ativo
+413;100413;Policial Militar;2020-07-26;Ativo
+414;100414;Médico;2013-07-25;Afastado
+415;100415;Professor;2008-05-28;Ativo
+416;100416;Médico;1991-11-05;Afastado
+417;100417;Médico;2002-09-11;Afastado
+418;100418;Policial Militar;2001-02-27;Afastado
+419;100419;Professor;2006-11-12;Inativo
+420;100420;Professor;2017-11-07;Afastado
+421;100421;Professor;2015-03-19;Afastado
+422;100422;Analista;1995-06-19;Inativo
+423;100423;Gestor Público;2012-02-11;Inativo
+424;100424;Policial Militar;2012-06-16;Afastado
+425;100425;Professor;2021-04-20;Inativo
+426;100426;Analista;2023-08-22;Ativo
+427;100427;Analista;2018-03-22;Afastado
+428;100428;Delegado;2018-01-21;Inativo
+429;100429;Médico;2013-03-23;Afastado
+430;100430;Gestor Público;2021-07-16;Ativo
+431;100431;Gestor Público;2007-01-07;Afastado
+432;100432;Agente Administrativo;2015-06-25;Ativo
+433;100433;Médico;2009-11-23;Afastado
+434;100434;Analista;2000-07-18;Afastado
+435;100435;Professor;2019-08-09;Inativo
+436;100436;Agente Administrativo;2001-09-01;Ativo
+437;100437;Professor;2009-11-28;Inativo
+438;100438;Gestor Público;2019-06-05;Ativo
+439;100439;Técnico Administrativo;2012-12-03;Ativo
+440;100440;Gestor Público;1991-02-23;Ativo
+441;100441;Soldado;2019-07-28;Afastado
+442;100442;Médico;2010-02-20;Inativo
+443;100443;Delegado;2001-10-25;Afastado
+444;100444;Analista;1993-04-23;Afastado
+445;100445;Médico;2003-05-04;Inativo
+446;100446;Professor;1995-04-27;Inativo
+447;100447;Policial Militar;1999-02-11;Inativo
+448;100448;Soldado;2018-04-16;Afastado
+449;100449;Médico;2018-06-23;Ativo
+450;100450;Gestor Público;2006-01-08;Afastado
+451;100451;Enfermeiro;2012-10-06;Ativo
+452;100452;Técnico Administrativo;2017-07-06;Afastado
+453;100453;Médico;2014-10-21;Afastado
+454;100454;Técnico Administrativo;2012-08-18;Afastado
+455;100455;Delegado;1994-03-05;Ativo
+456;100456;Policial Militar;1996-06-13;Afastado
+457;100457;Gestor Público;2008-03-27;Ativo
+458;100458;Soldado;1995-02-06;Ativo
+459;100459;Médico;2017-07-17;Afastado
+460;100460;Técnico Administrativo;1992-09-28;Afastado
+461;100461;Enfermeiro;1997-12-31;Inativo
+462;100462;Analista;1996-02-23;Afastado
+463;100463;Agente Administrativo;2009-10-23;Inativo
+464;100464;Policial Militar;1994-03-22;Inativo
+465;100465;Professor;2021-08-27;Afastado
+466;100466;Médico;2024-02-25;Afastado
+467;100467;Técnico Administrativo;1998-03-10;Afastado
+468;100468;Enfermeiro;1998-12-09;Ativo
+469;100469;Técnico Administrativo;2013-01-09;Ativo
+470;100470;Policial Militar;2019-01-23;Ativo
+471;100471;Agente Administrativo;1994-11-03;Inativo
+472;100472;Soldado;1990-01-14;Afastado
+473;100473;Médico;2024-03-24;Ativo
+474;100474;Delegado;1993-06-19;Afastado
+475;100475;Técnico Administrativo;2005-07-14;Afastado
+476;100476;Agente Administrativo;2006-05-14;Ativo
+477;100477;Delegado;2005-02-19;Afastado
+478;100478;Soldado;2009-05-04;Inativo
+479;100479;Técnico Administrativo;2025-08-08;Ativo
+480;100480;Professor;2002-04-29;Inativo
+481;100481;Policial Militar;2009-12-07;Ativo
+482;100482;Gestor Público;1997-06-24;Afastado
+483;100483;Médico;2008-10-04;Afastado
+484;100484;Delegado;2016-01-10;Afastado
+485;100485;Agente Administrativo;1998-08-29;Ativo
+486;100486;Médico;2010-09-25;Afastado
+487;100487;Técnico Administrativo;1996-07-19;Inativo
+488;100488;Enfermeiro;2016-08-31;Ativo
+489;100489;Médico;2016-02-29;Inativo
+490;100490;Policial Militar;2000-02-01;Inativo
+491;100491;Técnico Administrativo;1992-07-06;Inativo
+492;100492;Soldado;2010-10-29;Ativo
+493;100493;Analista;2001-04-17;Inativo
+494;100494;Soldado;1997-04-26;Ativo
+495;100495;Médico;2024-05-18;Inativo
+496;100496;Analista;2024-03-11;Inativo
+497;100497;Técnico Administrativo;1993-05-04;Ativo
+498;100498;Policial Militar;2024-10-10;Afastado
+499;100499;Soldado;2000-03-19;Inativo
+500;100500;Gestor Público;2004-12-21;Afastado
+501;100501;Soldado;2013-09-03;Afastado
+502;100502;Professor;1999-04-01;Inativo
+503;100503;Analista;2009-11-30;Afastado
+504;100504;Médico;1994-01-27;Afastado
+505;100505;Professor;2001-03-03;Ativo
+506;100506;Enfermeiro;2008-02-09;Afastado
+507;100507;Técnico Administrativo;1995-01-16;Inativo
+508;100508;Médico;2019-07-28;Ativo
+509;100509;Professor;1990-08-23;Ativo
+510;100510;Policial Militar;2011-11-11;Afastado
+511;100511;Agente Administrativo;1998-03-11;Inativo
+512;100512;Agente Administrativo;2017-05-07;Inativo
+513;100513;Soldado;1997-03-10;Ativo
+514;100514;Enfermeiro;2013-07-08;Ativo
+515;100515;Técnico Administrativo;2022-10-29;Afastado
+516;100516;Técnico Administrativo;2025-01-11;Afastado
+517;100517;Delegado;2018-03-06;Afastado
+518;100518;Médico;2015-01-20;Afastado
+519;100519;Policial Militar;2005-02-12;Inativo
+520;100520;Policial Militar;2007-10-19;Ativo
+521;100521;Gestor Público;2011-09-05;Inativo
+522;100522;Gestor Público;1995-10-11;Ativo
+523;100523;Professor;1992-11-10;Afastado
+524;100524;Analista;2017-05-06;Ativo
+525;100525;Professor;2005-05-26;Ativo
+526;100526;Professor;1990-01-29;Afastado
+527;100527;Professor;2009-12-19;Ativo
+528;100528;Policial Militar;1996-05-05;Ativo
+529;100529;Delegado;2008-02-19;Inativo
+530;100530;Agente Administrativo;1991-04-04;Ativo
+531;100531;Delegado;1999-03-30;Afastado
+532;100532;Delegado;2002-06-23;Ativo
+533;100533;Técnico Administrativo;2024-02-20;Ativo
+534;100534;Soldado;2016-10-12;Ativo
+535;100535;Soldado;1993-02-10;Ativo
+536;100536;Técnico Administrativo;2000-01-27;Afastado
+537;100537;Delegado;2001-07-16;Ativo
+538;100538;Professor;2022-06-12;Afastado
+539;100539;Agente Administrativo;1997-01-11;Afastado
+540;100540;Gestor Público;2013-10-20;Afastado
+541;100541;Enfermeiro;1994-07-21;Afastado
+542;100542;Analista;2016-04-17;Afastado
+543;100543;Soldado;1990-09-19;Afastado
+544;100544;Gestor Público;1990-06-24;Afastado
+545;100545;Técnico Administrativo;2019-11-20;Inativo
+546;100546;Professor;1998-12-13;Afastado
+547;100547;Técnico Administrativo;1997-11-21;Ativo
+548;100548;Professor;1992-11-25;Ativo
+549;100549;Médico;2000-03-26;Afastado
+550;100550;Gestor Público;1998-04-02;Ativo
+551;100551;Policial Militar;2021-09-02;Inativo
+552;100552;Soldado;2006-08-07;Inativo
+553;100553;Delegado;2023-08-27;Ativo
+554;100554;Soldado;2004-02-04;Afastado
+555;100555;Policial Militar;2010-11-09;Ativo
+556;100556;Policial Militar;2022-04-27;Inativo
+557;100557;Técnico Administrativo;2023-11-08;Inativo
+558;100558;Analista;2018-11-03;Afastado
+559;100559;Médico;2016-02-21;Inativo
+560;100560;Delegado;1995-05-07;Afastado
+561;100561;Médico;2012-12-04;Ativo
+562;100562;Enfermeiro;1990-01-01;Inativo
+563;100563;Professor;1990-08-24;Ativo
+564;100564;Analista;2019-06-15;Ativo
+565;100565;Agente Administrativo;1997-05-09;Inativo
+566;100566;Policial Militar;2018-12-15;Inativo
+567;100567;Analista;2001-06-05;Afastado
+568;100568;Técnico Administrativo;2021-03-04;Inativo
+569;100569;Enfermeiro;2005-05-24;Inativo
+570;100570;Delegado;1991-09-26;Inativo
+571;100571;Agente Administrativo;2009-12-08;Ativo
+572;100572;Soldado;2001-03-04;Ativo
+573;100573;Agente Administrativo;2021-02-14;Inativo
+574;100574;Policial Militar;2015-01-01;Inativo
+575;100575;Professor;2004-05-02;Ativo
+576;100576;Policial Militar;2000-02-10;Inativo
+577;100577;Gestor Público;1991-05-22;Inativo
+578;100578;Policial Militar;1994-01-30;Afastado
+579;100579;Gestor Público;2009-01-05;Afastado
+580;100580;Soldado;2022-03-02;Inativo
+581;100581;Analista;2009-03-09;Afastado
+582;100582;Analista;1994-12-31;Inativo
+583;100583;Gestor Público;2023-03-20;Afastado
+584;100584;Técnico Administrativo;2008-04-29;Afastado
+585;100585;Professor;2025-05-08;Inativo
+586;100586;Delegado;2022-06-26;Inativo
+587;100587;Agente Administrativo;1992-03-31;Inativo
+588;100588;Analista;1998-10-07;Afastado
+589;100589;Professor;1992-03-03;Inativo
+590;100590;Agente Administrativo;2014-04-16;Afastado
+591;100591;Delegado;2003-06-09;Inativo
+592;100592;Delegado;1992-04-21;Ativo
+593;100593;Professor;1990-07-01;Ativo
+594;100594;Agente Administrativo;1991-08-16;Afastado
+595;100595;Agente Administrativo;2015-06-28;Inativo
+596;100596;Gestor Público;2013-04-30;Afastado
+597;100597;Agente Administrativo;2012-09-09;Inativo
+598;100598;Soldado;2012-01-24;Inativo
+599;100599;Soldado;1997-12-19;Ativo
+600;100600;Técnico Administrativo;2017-06-27;Inativo
+601;100601;Policial Militar;1999-06-12;Ativo
+602;100602;Soldado;2019-06-08;Ativo
+603;100603;Soldado;2005-01-03;Ativo
+604;100604;Agente Administrativo;2002-04-08;Afastado
+605;100605;Médico;2004-02-20;Afastado
+606;100606;Analista;2012-07-04;Afastado
+607;100607;Enfermeiro;1997-08-01;Afastado
+608;100608;Agente Administrativo;2024-05-12;Afastado
+609;100609;Policial Militar;1991-05-04;Inativo
+610;100610;Gestor Público;2005-12-11;Ativo
+611;100611;Agente Administrativo;2009-02-03;Inativo
+612;100612;Agente Administrativo;2017-01-17;Afastado
+613;100613;Delegado;2023-09-30;Ativo
+614;100614;Policial Militar;1997-07-21;Ativo
+615;100615;Delegado;2016-07-02;Inativo
+616;100616;Técnico Administrativo;2020-09-07;Inativo
+617;100617;Médico;2007-06-17;Inativo
+618;100618;Enfermeiro;1997-12-10;Inativo
+619;100619;Professor;1994-12-05;Inativo
+620;100620;Delegado;2015-06-24;Inativo
+621;100621;Médico;2013-11-20;Inativo
+622;100622;Analista;2001-07-03;Ativo
+623;100623;Policial Militar;1994-06-28;Ativo
+624;100624;Analista;2019-09-06;Inativo
+625;100625;Delegado;1994-11-12;Inativo
+626;100626;Médico;2008-03-15;Inativo
+627;100627;Agente Administrativo;2017-03-23;Afastado
+628;100628;Delegado;2022-05-04;Afastado
+629;100629;Gestor Público;1991-02-28;Afastado
+630;100630;Soldado;1991-10-24;Afastado
+631;100631;Médico;2004-06-05;Inativo
+632;100632;Analista;2002-01-05;Ativo
+633;100633;Técnico Administrativo;1996-05-07;Afastado
+634;100634;Enfermeiro;2018-05-02;Inativo
+635;100635;Analista;2024-08-19;Ativo
+636;100636;Gestor Público;2004-02-19;Afastado
+637;100637;Delegado;1991-07-24;Afastado
+638;100638;Gestor Público;2013-07-02;Ativo
+639;100639;Enfermeiro;1994-11-19;Afastado
+640;100640;Técnico Administrativo;2001-06-12;Ativo
+641;100641;Policial Militar;2007-07-10;Inativo
+642;100642;Agente Administrativo;2018-11-23;Ativo
+643;100643;Analista;1994-08-06;Afastado
+644;100644;Enfermeiro;2014-10-17;Afastado
+645;100645;Enfermeiro;2025-01-05;Ativo
+646;100646;Gestor Público;2006-03-25;Afastado
+647;100647;Delegado;2015-09-13;Inativo
+648;100648;Agente Administrativo;2002-03-13;Afastado
+649;100649;Técnico Administrativo;2006-10-31;Afastado
+650;100650;Soldado;2009-11-10;Afastado
+651;100651;Delegado;2013-07-03;Afastado
+652;100652;Analista;2007-01-15;Ativo
+653;100653;Analista;1996-04-26;Inativo
+654;100654;Soldado;2016-06-03;Afastado
+655;100655;Policial Militar;2000-04-08;Afastado
+656;100656;Professor;2000-01-17;Afastado
+657;100657;Gestor Público;1991-10-09;Afastado
+658;100658;Policial Militar;2022-12-28;Afastado
+659;100659;Enfermeiro;2007-01-25;Ativo
+660;100660;Agente Administrativo;1990-01-11;Inativo
+661;100661;Agente Administrativo;2007-08-21;Inativo
+662;100662;Soldado;1997-12-24;Inativo
+663;100663;Analista;2017-05-11;Inativo
+664;100664;Analista;1993-11-10;Inativo
+665;100665;Gestor Público;2001-12-03;Ativo
+666;100666;Policial Militar;2008-01-16;Ativo
+667;100667;Delegado;2006-04-26;Inativo
+668;100668;Policial Militar;1993-02-08;Ativo
+669;100669;Soldado;2022-04-09;Inativo
+670;100670;Gestor Público;1994-02-26;Ativo
+671;100671;Policial Militar;2001-09-05;Afastado
+672;100672;Técnico Administrativo;2018-12-14;Inativo
+673;100673;Agente Administrativo;2014-09-13;Ativo
+674;100674;Enfermeiro;2001-05-22;Afastado
+675;100675;Agente Administrativo;2013-04-12;Ativo
+676;100676;Policial Militar;1998-04-14;Ativo
+677;100677;Policial Militar;2019-10-15;Ativo
+678;100678;Técnico Administrativo;1999-04-19;Ativo
+679;100679;Médico;1998-11-18;Afastado
+680;100680;Policial Militar;1990-05-24;Afastado
+681;100681;Professor;2002-05-11;Ativo
+682;100682;Soldado;2002-06-20;Ativo
+683;100683;Analista;1995-08-05;Ativo
+684;100684;Técnico Administrativo;1991-12-24;Afastado
+685;100685;Soldado;1994-10-26;Ativo
+686;100686;Médico;2007-12-21;Ativo
+687;100687;Delegado;1997-01-09;Inativo
+688;100688;Técnico Administrativo;1992-04-08;Inativo
+689;100689;Analista;2016-06-13;Inativo
+690;100690;Soldado;2011-07-12;Afastado
+691;100691;Agente Administrativo;2010-09-01;Afastado
+692;100692;Enfermeiro;2019-09-03;Afastado
+693;100693;Enfermeiro;2014-03-24;Ativo
+694;100694;Soldado;2022-07-30;Inativo
+695;100695;Policial Militar;2022-06-05;Inativo
+696;100696;Analista;1996-11-10;Afastado
+697;100697;Professor;2001-08-06;Inativo
+698;100698;Soldado;2022-04-14;Inativo
+699;100699;Médico;2021-04-07;Inativo
+700;100700;Técnico Administrativo;2009-11-12;Inativo
+701;100701;Policial Militar;2016-05-23;Inativo
+702;100702;Agente Administrativo;2023-10-07;Afastado
+703;100703;Professor;1992-02-09;Inativo
+704;100704;Soldado;2025-02-06;Inativo
+705;100705;Analista;1990-05-31;Afastado
+706;100706;Agente Administrativo;2001-04-08;Afastado
+707;100707;Delegado;1993-06-01;Ativo
+708;100708;Agente Administrativo;2021-03-01;Ativo
+709;100709;Gestor Público;2022-11-25;Ativo
+710;100710;Enfermeiro;2004-10-03;Afastado
+711;100711;Delegado;2005-06-29;Ativo
+712;100712;Soldado;2012-07-14;Afastado
+713;100713;Analista;1994-01-07;Afastado
+714;100714;Professor;2013-03-12;Afastado
+715;100715;Agente Administrativo;2020-05-10;Inativo
+716;100716;Médico;2004-02-15;Inativo
+717;100717;Delegado;2002-01-19;Ativo
+718;100718;Médico;2009-04-14;Inativo
+719;100719;Gestor Público;1993-04-05;Inativo
+720;100720;Enfermeiro;1993-07-12;Afastado
+721;100721;Agente Administrativo;1996-06-28;Inativo
+722;100722;Soldado;1992-01-14;Inativo
+723;100723;Soldado;1997-12-20;Afastado
+724;100724;Técnico Administrativo;1992-08-23;Inativo
+725;100725;Técnico Administrativo;2009-04-19;Afastado
+726;100726;Gestor Público;2001-07-14;Inativo
+727;100727;Soldado;2003-04-25;Ativo
+728;100728;Agente Administrativo;2003-08-15;Ativo
+729;100729;Médico;2015-04-29;Ativo
+730;100730;Delegado;1992-06-03;Afastado
+731;100731;Policial Militar;1999-08-17;Afastado
+732;100732;Médico;2019-11-23;Ativo
+733;100733;Técnico Administrativo;1999-12-07;Afastado
+734;100734;Delegado;2014-07-24;Ativo
+735;100735;Policial Militar;2004-09-19;Ativo
+736;100736;Enfermeiro;2004-11-06;Ativo
+737;100737;Enfermeiro;2020-06-05;Inativo
+738;100738;Agente Administrativo;1998-05-15;Ativo
+739;100739;Gestor Público;2011-12-06;Afastado
+740;100740;Analista;2021-10-18;Ativo
+741;100741;Analista;1992-06-03;Ativo
+742;100742;Professor;2023-01-02;Afastado
+743;100743;Delegado;2001-05-15;Inativo
+744;100744;Gestor Público;1991-11-01;Ativo
+745;100745;Policial Militar;2008-09-26;Inativo
+746;100746;Médico;2015-06-17;Inativo
+747;100747;Técnico Administrativo;2020-06-19;Afastado
+748;100748;Agente Administrativo;2000-07-31;Ativo
+749;100749;Policial Militar;2000-10-05;Inativo
+750;100750;Técnico Administrativo;2005-04-30;Ativo
+751;100751;Analista;2019-12-14;Inativo
+752;100752;Técnico Administrativo;2006-07-11;Afastado
+753;100753;Professor;1999-12-26;Inativo
+754;100754;Analista;1991-08-19;Ativo
+755;100755;Técnico Administrativo;1998-11-20;Inativo
+756;100756;Gestor Público;2017-04-09;Ativo
+757;100757;Técnico Administrativo;2024-04-17;Afastado
+758;100758;Médico;2004-07-19;Inativo
+759;100759;Policial Militar;1999-06-21;Inativo
+760;100760;Analista;2019-08-10;Ativo
+761;100761;Policial Militar;1993-11-17;Inativo
+762;100762;Professor;2009-06-30;Ativo
+763;100763;Médico;1993-04-30;Ativo
+764;100764;Técnico Administrativo;2018-04-05;Inativo
+765;100765;Analista;2021-11-22;Ativo
+766;100766;Analista;2008-03-30;Ativo
+767;100767;Gestor Público;2010-11-26;Afastado
+768;100768;Delegado;2019-06-29;Inativo
+769;100769;Analista;2013-08-03;Afastado
+770;100770;Professor;1995-03-02;Inativo
+771;100771;Gestor Público;2000-01-09;Afastado
+772;100772;Técnico Administrativo;2001-09-17;Afastado
+773;100773;Soldado;2003-02-18;Ativo
+774;100774;Soldado;2002-10-31;Ativo
+775;100775;Médico;1995-12-27;Afastado
+776;100776;Analista;2009-08-17;Inativo
+777;100777;Analista;1995-09-13;Afastado
+778;100778;Técnico Administrativo;2017-11-30;Afastado
+779;100779;Enfermeiro;2021-12-19;Inativo
+780;100780;Analista;2011-09-29;Inativo
+781;100781;Médico;2015-01-05;Inativo
+782;100782;Agente Administrativo;2013-04-06;Inativo
+783;100783;Policial Militar;2008-07-29;Ativo
+784;100784;Enfermeiro;1995-04-02;Ativo
+785;100785;Policial Militar;2019-10-02;Inativo
+786;100786;Enfermeiro;2012-12-09;Afastado
+787;100787;Analista;2025-08-23;Inativo
+788;100788;Professor;1998-01-12;Ativo
+789;100789;Gestor Público;2002-06-16;Afastado
+790;100790;Médico;1994-04-28;Ativo
+791;100791;Médico;2000-03-10;Ativo
+792;100792;Professor;2019-10-12;Afastado
+793;100793;Professor;1990-04-13;Afastado
+794;100794;Analista;2022-02-16;Afastado
+795;100795;Delegado;2018-03-08;Afastado
+796;100796;Gestor Público;2010-07-07;Inativo
+797;100797;Agente Administrativo;1994-10-17;Inativo
+798;100798;Gestor Público;1992-09-29;Ativo
+799;100799;Policial Militar;2008-08-29;Ativo
+800;100800;Delegado;2010-02-18;Afastado
+801;100801;Analista;2007-08-25;Inativo
+802;100802;Gestor Público;1990-05-10;Inativo
+803;100803;Agente Administrativo;2000-02-08;Inativo
+804;100804;Enfermeiro;2014-01-17;Afastado
+805;100805;Soldado;1992-12-26;Ativo
+806;100806;Técnico Administrativo;2005-12-27;Afastado
+807;100807;Gestor Público;1998-03-05;Inativo
+808;100808;Delegado;2004-08-27;Afastado
+809;100809;Técnico Administrativo;2003-12-04;Ativo
+810;100810;Professor;1994-04-09;Afastado
+811;100811;Agente Administrativo;2023-04-13;Ativo
+812;100812;Técnico Administrativo;2025-06-07;Inativo
+813;100813;Enfermeiro;2005-02-05;Afastado
+814;100814;Analista;2024-06-27;Afastado
+815;100815;Analista;2020-12-15;Afastado
+816;100816;Policial Militar;2012-11-11;Afastado
+817;100817;Professor;2006-01-07;Inativo
+818;100818;Professor;2013-05-19;Ativo
+819;100819;Analista;1996-01-27;Inativo
+820;100820;Delegado;2012-03-20;Inativo
+821;100821;Enfermeiro;1998-10-26;Ativo
+822;100822;Médico;2008-02-26;Inativo
+823;100823;Professor;2000-06-08;Ativo
+824;100824;Analista;2017-11-15;Inativo
+825;100825;Enfermeiro;1990-08-18;Inativo
+826;100826;Professor;2024-12-11;Ativo
+827;100827;Analista;1991-03-02;Inativo
+828;100828;Policial Militar;2021-11-05;Inativo
+829;100829;Analista;1996-06-18;Inativo
+830;100830;Soldado;2017-01-13;Inativo
+831;100831;Gestor Público;2014-01-14;Inativo
+832;100832;Analista;2012-01-05;Inativo
+833;100833;Médico;2015-10-02;Afastado
+834;100834;Médico;2025-08-02;Inativo
+835;100835;Médico;2010-06-28;Afastado
+836;100836;Técnico Administrativo;1994-05-05;Afastado
+837;100837;Médico;2002-06-17;Inativo
+838;100838;Agente Administrativo;1996-10-29;Ativo
+839;100839;Policial Militar;2010-05-21;Ativo
+840;100840;Gestor Público;1997-10-03;Ativo
+841;100841;Enfermeiro;2013-11-18;Afastado
+842;100842;Soldado;2022-04-06;Afastado
+843;100843;Delegado;2005-10-01;Afastado
+844;100844;Agente Administrativo;2003-08-10;Afastado
+845;100845;Professor;1990-10-09;Inativo
+846;100846;Professor;2022-06-24;Ativo
+847;100847;Analista;2003-12-13;Afastado
+848;100848;Técnico Administrativo;2000-10-18;Ativo
+849;100849;Soldado;2005-04-14;Ativo
+850;100850;Técnico Administrativo;2024-12-14;Afastado
+851;100851;Analista;2020-03-22;Afastado
+852;100852;Enfermeiro;2007-11-15;Afastado
+853;100853;Médico;2006-04-30;Ativo
+854;100854;Analista;1996-08-11;Ativo
+855;100855;Professor;2012-01-03;Afastado
+856;100856;Policial Militar;2001-08-24;Ativo
+857;100857;Soldado;1999-02-18;Ativo
+858;100858;Delegado;1992-03-27;Ativo
+859;100859;Médico;2022-08-06;Afastado
+860;100860;Policial Militar;2024-11-15;Ativo
+861;100861;Soldado;2012-06-02;Afastado
+862;100862;Técnico Administrativo;2024-02-29;Ativo
+863;100863;Policial Militar;1997-11-19;Ativo
+864;100864;Soldado;2024-01-26;Ativo
+865;100865;Gestor Público;2002-07-02;Inativo
+866;100866;Técnico Administrativo;1997-03-07;Afastado
+867;100867;Gestor Público;2023-08-06;Afastado
+868;100868;Enfermeiro;2000-09-07;Afastado
+869;100869;Gestor Público;2022-09-20;Ativo
+870;100870;Policial Militar;2015-04-25;Afastado
+871;100871;Enfermeiro;2016-05-17;Inativo
+872;100872;Delegado;2002-04-18;Inativo
+873;100873;Técnico Administrativo;1992-10-25;Inativo
+874;100874;Professor;2006-10-17;Afastado
+875;100875;Médico;2023-12-25;Ativo
+876;100876;Professor;2008-02-23;Ativo
+877;100877;Professor;2005-10-27;Afastado
+878;100878;Delegado;1997-08-21;Afastado
+879;100879;Médico;2006-08-19;Ativo
+880;100880;Delegado;1995-10-28;Inativo
+881;100881;Enfermeiro;2002-09-13;Afastado
+882;100882;Enfermeiro;1998-01-29;Afastado
+883;100883;Soldado;2003-10-20;Inativo
+884;100884;Agente Administrativo;2015-06-22;Ativo
+885;100885;Gestor Público;1990-09-20;Ativo
+886;100886;Policial Militar;2008-08-23;Inativo
+887;100887;Agente Administrativo;2003-10-27;Inativo
+888;100888;Soldado;2018-12-01;Inativo
+889;100889;Analista;2007-05-16;Inativo
+890;100890;Agente Administrativo;2008-01-04;Afastado
+891;100891;Policial Militar;2024-07-07;Ativo
+892;100892;Enfermeiro;2006-02-04;Afastado
+893;100893;Soldado;2022-07-05;Afastado
+894;100894;Soldado;1992-06-10;Afastado
+895;100895;Policial Militar;2023-09-30;Ativo
+896;100896;Analista;2015-01-03;Ativo
+897;100897;Analista;2023-01-03;Afastado
+898;100898;Gestor Público;2006-11-25;Afastado
+899;100899;Agente Administrativo;1996-08-03;Ativo
+900;100900;Professor;2006-09-22;Afastado
+901;100901;Médico;2005-06-19;Inativo
+902;100902;Agente Administrativo;2001-04-13;Afastado
+903;100903;Analista;2002-10-02;Afastado
+904;100904;Gestor Público;2021-10-28;Afastado
+905;100905;Técnico Administrativo;2011-04-04;Afastado
+906;100906;Médico;1993-04-03;Afastado
+907;100907;Gestor Público;2016-10-22;Afastado
+908;100908;Delegado;1995-10-10;Ativo
+909;100909;Analista;2017-02-20;Ativo
+910;100910;Médico;1990-07-26;Afastado
+911;100911;Delegado;2020-09-14;Inativo
+912;100912;Gestor Público;2011-01-05;Inativo
+913;100913;Delegado;1994-07-01;Ativo
+914;100914;Analista;2011-05-10;Inativo
+915;100915;Delegado;1998-01-24;Ativo
+916;100916;Delegado;2000-08-10;Ativo
+917;100917;Professor;1991-01-17;Afastado
+918;100918;Enfermeiro;2018-04-08;Afastado
+919;100919;Policial Militar;2007-11-11;Inativo
+920;100920;Enfermeiro;2010-02-19;Afastado
+921;100921;Analista;2005-07-23;Afastado
+922;100922;Policial Militar;2022-06-02;Inativo
+923;100923;Agente Administrativo;1990-04-24;Inativo
+924;100924;Professor;1999-06-09;Afastado
+925;100925;Médico;2020-10-09;Ativo
+926;100926;Policial Militar;1993-10-09;Inativo
+927;100927;Professor;2012-02-08;Inativo
+928;100928;Agente Administrativo;2025-09-18;Inativo
+929;100929;Analista;2000-12-29;Afastado
+930;100930;Enfermeiro;2016-11-09;Afastado
+931;100931;Técnico Administrativo;2019-08-19;Ativo
+932;100932;Agente Administrativo;2021-03-23;Inativo
+933;100933;Delegado;2003-09-22;Inativo
+934;100934;Delegado;1993-10-02;Inativo
+935;100935;Analista;1990-04-23;Ativo
+936;100936;Soldado;2003-04-14;Ativo
+937;100937;Delegado;1992-09-22;Ativo
+938;100938;Policial Militar;1996-11-09;Afastado
+939;100939;Enfermeiro;2020-05-12;Ativo
+940;100940;Professor;1991-11-01;Ativo
+941;100941;Agente Administrativo;2007-10-14;Afastado
+942;100942;Professor;2016-06-25;Ativo
+943;100943;Técnico Administrativo;2010-03-14;Afastado
+944;100944;Policial Militar;1999-02-01;Afastado
+945;100945;Agente Administrativo;1999-06-05;Afastado
+946;100946;Professor;2015-06-09;Afastado
+947;100947;Médico;2000-01-17;Inativo
+948;100948;Professor;2019-07-11;Ativo
+949;100949;Enfermeiro;1992-11-12;Inativo
+950;100950;Professor;2000-05-31;Afastado
+951;100951;Soldado;1999-10-23;Inativo
+952;100952;Médico;2000-03-02;Ativo
+953;100953;Policial Militar;2014-06-09;Inativo
+954;100954;Soldado;2007-05-06;Afastado
+955;100955;Professor;1995-03-25;Afastado
+956;100956;Gestor Público;2014-05-31;Ativo
+957;100957;Professor;1999-06-24;Ativo
+958;100958;Policial Militar;2016-02-20;Ativo
+959;100959;Professor;1998-02-06;Afastado
+960;100960;Soldado;2016-06-13;Inativo
+961;100961;Técnico Administrativo;2003-12-31;Ativo
+962;100962;Policial Militar;2024-02-19;Inativo
+963;100963;Analista;2020-04-16;Inativo
+964;100964;Professor;1996-02-02;Ativo
+965;100965;Técnico Administrativo;1998-08-19;Ativo
+966;100966;Professor;2001-10-30;Afastado
+967;100967;Delegado;2008-02-19;Inativo
+968;100968;Enfermeiro;2024-04-20;Inativo
+969;100969;Soldado;2018-12-05;Afastado
+970;100970;Médico;2017-08-18;Afastado
+971;100971;Agente Administrativo;2017-07-10;Inativo
+972;100972;Enfermeiro;2005-06-14;Inativo
+973;100973;Delegado;2010-04-03;Afastado
+974;100974;Técnico Administrativo;1998-09-25;Ativo
+975;100975;Enfermeiro;2014-06-03;Ativo
+976;100976;Enfermeiro;1996-06-23;Ativo
+977;100977;Policial Militar;2025-04-24;Inativo
+978;100978;Professor;2011-09-27;Afastado
+979;100979;Professor;2001-03-11;Afastado
+980;100980;Técnico Administrativo;1990-02-03;Ativo
+981;100981;Policial Militar;2019-10-05;Inativo
+982;100982;Técnico Administrativo;1999-12-25;Ativo
+983;100983;Médico;2012-06-30;Afastado
+984;100984;Analista;1990-01-22;Inativo
+985;100985;Policial Militar;2011-12-14;Afastado
+986;100986;Soldado;2002-11-29;Afastado
+987;100987;Soldado;2001-03-29;Ativo
+988;100988;Policial Militar;1996-11-15;Afastado
+989;100989;Técnico Administrativo;2003-05-29;Afastado
+990;100990;Enfermeiro;1997-10-23;Ativo
+991;100991;Gestor Público;2006-12-29;Ativo
+992;100992;Professor;2017-02-21;Inativo
+993;100993;Delegado;2017-02-05;Ativo
+994;100994;Gestor Público;2000-09-26;Afastado
+995;100995;Técnico Administrativo;2013-01-23;Afastado
+996;100996;Soldado;2022-12-03;Inativo
+997;100997;Professor;2014-11-04;Ativo
+998;100998;Médico;2020-09-05;Inativo
+999;100999;Policial Militar;2024-09-02;Ativo
+1000;101000;Técnico Administrativo;2005-04-16;Ativo

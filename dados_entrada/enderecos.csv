@@ -1,0 +1,1001 @@
+id_pessoa;logradouro;numero;bairro;cidade;uf;cep
+1;Rua 24;9864;Centro;Rio Verde;GO;83863794
+2;Avenida T-63;8786;Setor Oeste;Caldas Novas;GO;61849593
+3;Rua Rio Vermelho;1170;Setor Sul;Caldas Novas;GO;83276483
+4;Rua 7;4041;Setor Aeroporto;Luziânia;GO;84969653
+5;Rua Central;189;Setor Oeste;Catalão;GO;84514627
+6;Rua 5;8006;Centro;Itumbiara;GO;15430391
+7;Alameda Tocantins;6538;Vila Nova;Caldas Novas;GO;78713315
+8;Rua 24;2168;Setor Central;Rio Verde;GO;37631165
+9;Rua 7;4564;Setor Central;Trindade;GO;31781080
+10;Travessa 3;9106;Setor Central;Caldas Novas;GO;23430980
+11;Avenida Marginal;9741;Centro;Rio Verde;GO;91699854
+12;Rua Goiás;8289;Jardim América;Catalão;GO;25135427
+13;Rua Rio Vermelho;4326;Setor Aeroporto;Rio Verde;GO;74016400
+14;Rua 7;686;Jardim América;Trindade;GO;50533158
+15;Rua das Flores;7712;Setor Bueno;Jataí;GO;37543303
+16;Avenida Marginal;7120;Vila Nova;Anápolis;GO;56981693
+17;Rua das Palmeiras;5345;Setor Universitário;Brasília;DF;48236629
+18;Avenida Brasil;4650;Setor Aeroporto;Brasília;DF;95134332
+19;Rua 7;8487;Setor Central;Rio Verde;GO;08317278
+20;Avenida T-63;1270;Jardim América;Luziânia;GO;34558122
+21;Rua das Flores;9433;Setor Universitário;Caldas Novas;GO;70546688
+22;Avenida Marginal;445;Setor Oeste;Itumbiara;GO;62720465
+23;Rua das Flores;4052;Setor Bueno;Morrinhos;GO;09232719
+24;Rua Goiás;1246;Setor Bueno;Caldas Novas;GO;14919058
+25;Alameda Tocantins;8818;Setor Central;Brasília;DF;76945314
+26;Rua 24;3131;Setor Oeste;Goiânia;GO;36783777
+27;Alameda Tocantins;4119;Setor Bueno;Luziânia;GO;13518233
+28;Travessa 3;2069;Setor Central;Luziânia;GO;10947775
+29;Rua Bela Vista;6819;Setor Bueno;Catalão;GO;86774964
+30;Travessa 3;9730;Setor Central;Formosa;GO;40344713
+31;Avenida T-63;4983;Setor Universitário;Anápolis;GO;48877190
+32;Avenida Marginal;7142;Setor Central;Aparecida de Goiânia;GO;17565512
+33;Rua Central;8890;Setor Central;Brasília;DF;60385977
+34;Rua Goiás;1859;Setor Central;Anápolis;GO;12748467
+35;Avenida Marginal;9502;Setor Central;Jataí;GO;27875588
+36;Rua 24;9670;Vila Nova;Aparecida de Goiânia;GO;17187026
+37;Rua Rio Vermelho;4709;Setor Bueno;Brasília;DF;16117240
+38;Avenida Marginal;2345;Setor Bueno;Formosa;GO;74740748
+39;Avenida Marginal;4848;Jardim América;Valparaíso de Goiás;GO;06409097
+40;Alameda Tocantins;5353;Setor Universitário;Anápolis;GO;23285884
+41;Avenida Brasil;7452;Vila Nova;Catalão;GO;49651370
+42;Rua 24;2223;Setor Universitário;Rio Verde;GO;75869261
+43;Avenida Brasil;7451;Setor Oeste;Rio Verde;GO;39005329
+44;Rua Central;423;Setor Sul;Brasília;DF;05395024
+45;Avenida T-63;511;Centro;Luziânia;GO;76617711
+46;Travessa 3;1875;Setor Aeroporto;Morrinhos;GO;36736576
+47;Rua das Flores;9609;Setor Aeroporto;Catalão;GO;85165604
+48;Rua 24;9122;Centro;Jataí;GO;94024455
+49;Rua 5;9300;Setor Oeste;Caldas Novas;GO;02290147
+50;Rua das Palmeiras;9820;Centro;Rio Verde;GO;03432445
+51;Avenida Brasil;5130;Setor Universitário;Goiatuba;GO;96641605
+52;Rua 7;1252;Setor Aeroporto;Morrinhos;GO;18835523
+53;Avenida T-63;1119;Setor Central;Aparecida de Goiânia;GO;74490581
+54;Rua Bela Vista;9367;Setor Bueno;Goiatuba;GO;59782071
+55;Avenida Marginal;858;Vila Nova;Brasília;DF;15186449
+56;Rua Rio Vermelho;6938;Setor Aeroporto;Brasília;DF;50542357
+57;Rua Central;2713;Setor Central;Aparecida de Goiânia;GO;06537947
+58;Avenida Marginal;2268;Jardim América;Morrinhos;GO;07581814
+59;Rua das Palmeiras;1338;Vila Nova;Rio Verde;GO;30515220
+60;Rua Bela Vista;4721;Setor Bueno;Anápolis;GO;41036971
+61;Rua Rio Vermelho;1403;Setor Aeroporto;Brasília;DF;51888880
+62;Rua Central;2869;Setor Central;Valparaíso de Goiás;GO;72217043
+63;Rua Bela Vista;6030;Setor Universitário;Anápolis;GO;67652775
+64;Rua das Palmeiras;2731;Setor Central;Caldas Novas;GO;57059640
+65;Rua das Flores;9914;Setor Sul;Itumbiara;GO;75571928
+66;Avenida T-63;3280;Setor Oeste;Caldas Novas;GO;21727155
+67;Avenida Marginal;6045;Setor Central;Catalão;GO;82911467
+68;Rua Central;908;Setor Oeste;Catalão;GO;82422535
+69;Avenida Marginal;9915;Vila Nova;Brasília;DF;90010943
+70;Avenida T-63;7610;Setor Bueno;Trindade;GO;59255562
+71;Rua 7;5365;Vila Nova;Jataí;GO;32787747
+72;Rua 7;4334;Vila Nova;Trindade;GO;65060983
+73;Rua Bela Vista;2364;Setor Bueno;Valparaíso de Goiás;GO;98680002
+74;Rua 24;8722;Setor Central;Jataí;GO;94705516
+75;Rua Rio Vermelho;3969;Centro;Jataí;GO;91307562
+76;Rua 24;5609;Setor Aeroporto;Formosa;GO;54973348
+77;Rua 5;2400;Jardim América;Jataí;GO;04157473
+78;Avenida T-63;1648;Setor Sul;Caldas Novas;GO;08267734
+79;Travessa 3;4743;Centro;Goiatuba;GO;04991547
+80;Rua Rio Vermelho;3165;Setor Sul;Itumbiara;GO;96685161
+81;Rua 5;3872;Centro;Brasília;DF;17426841
+82;Rua Bela Vista;1342;Setor Aeroporto;Jataí;GO;78519108
+83;Rua das Palmeiras;7485;Centro;Catalão;GO;87406403
+84;Rua Central;6185;Setor Universitário;Formosa;GO;18251286
+85;Rua Goiás;1849;Centro;Luziânia;GO;69033119
+86;Rua Bela Vista;5254;Setor Bueno;Itumbiara;GO;42836440
+87;Rua 7;8814;Setor Central;Trindade;GO;33427086
+88;Avenida Marginal;9879;Centro;Brasília;DF;13983735
+89;Rua 5;5054;Jardim América;Brasília;DF;58771753
+90;Avenida Marginal;4027;Setor Central;Trindade;GO;85477725
+91;Rua Goiás;8286;Setor Central;Goiânia;GO;50997700
+92;Avenida Marginal;8626;Jardim América;Rio Verde;GO;54615679
+93;Rua Central;7110;Vila Nova;Formosa;GO;91803397
+94;Rua Goiás;9285;Setor Universitário;Itumbiara;GO;85621850
+95;Rua 7;9599;Setor Universitário;Trindade;GO;19431142
+96;Rua das Palmeiras;7354;Setor Aeroporto;Aparecida de Goiânia;GO;88610158
+97;Alameda Tocantins;4934;Jardim América;Aparecida de Goiânia;GO;72126464
+98;Avenida Marginal;6225;Vila Nova;Jataí;GO;75692459
+99;Rua 24;2948;Setor Aeroporto;Itumbiara;GO;07374167
+100;Rua das Flores;5891;Setor Aeroporto;Catalão;GO;91135290
+101;Rua das Palmeiras;7587;Setor Aeroporto;Valparaíso de Goiás;GO;25071461
+102;Rua Bela Vista;1886;Centro;Goiânia;GO;51238282
+103;Travessa 3;3520;Setor Bueno;Goiânia;GO;41918255
+104;Rua Rio Vermelho;4874;Setor Oeste;Jataí;GO;25134125
+105;Rua 5;7390;Centro;Aparecida de Goiânia;GO;50723688
+106;Rua Bela Vista;7493;Setor Central;Aparecida de Goiânia;GO;88191485
+107;Rua Bela Vista;9633;Vila Nova;Rio Verde;GO;96292330
+108;Rua Rio Vermelho;2079;Setor Sul;Jataí;GO;32536729
+109;Avenida T-63;5870;Setor Oeste;Caldas Novas;GO;86363745
+110;Travessa 3;2162;Jardim América;Rio Verde;GO;24154152
+111;Rua das Flores;5630;Setor Oeste;Goiânia;GO;62713611
+112;Rua das Palmeiras;7249;Setor Bueno;Goiatuba;GO;11219656
+113;Rua Goiás;6419;Jardim América;Catalão;GO;03761379
+114;Rua Goiás;653;Centro;Luziânia;GO;68486661
+115;Rua Central;3910;Centro;Caldas Novas;GO;31617990
+116;Avenida Brasil;481;Vila Nova;Caldas Novas;GO;64814917
+117;Rua das Flores;7730;Vila Nova;Rio Verde;GO;62208635
+118;Alameda Tocantins;5091;Vila Nova;Jataí;GO;18705349
+119;Rua Central;158;Vila Nova;Brasília;DF;06413836
+120;Avenida Marginal;1021;Setor Universitário;Itumbiara;GO;23445655
+121;Rua Goiás;7405;Jardim América;Morrinhos;GO;74112490
+122;Avenida Brasil;7571;Setor Oeste;Rio Verde;GO;21003236
+123;Rua 7;9403;Setor Universitário;Goiânia;GO;67066253
+124;Rua das Palmeiras;2249;Setor Universitário;Luziânia;GO;38380657
+125;Avenida T-63;8675;Vila Nova;Morrinhos;GO;93213348
+126;Rua Central;8065;Setor Aeroporto;Rio Verde;GO;42701039
+127;Rua 24;5979;Setor Oeste;Jataí;GO;56915452
+128;Rua das Flores;9386;Setor Universitário;Caldas Novas;GO;90295939
+129;Alameda Tocantins;1771;Centro;Valparaíso de Goiás;GO;06762676
+130;Rua 7;6152;Setor Sul;Valparaíso de Goiás;GO;18159970
+131;Rua das Palmeiras;9368;Setor Aeroporto;Goiânia;GO;72050614
+132;Rua 7;6079;Setor Universitário;Trindade;GO;52704774
+133;Rua Rio Vermelho;7780;Setor Bueno;Catalão;GO;74160898
+134;Rua 5;1098;Setor Oeste;Luziânia;GO;68685487
+135;Rua das Palmeiras;4328;Setor Universitário;Goiatuba;GO;79970246
+136;Travessa 3;1610;Setor Bueno;Jataí;GO;24754691
+137;Rua 7;3159;Setor Bueno;Goiânia;GO;03070534
+138;Rua Central;4238;Setor Oeste;Aparecida de Goiânia;GO;40602933
+139;Rua das Palmeiras;5714;Setor Central;Trindade;GO;43748969
+140;Travessa 3;4896;Setor Bueno;Brasília;DF;28309652
+141;Rua Central;2786;Setor Aeroporto;Luziânia;GO;24172482
+142;Avenida Marginal;1167;Setor Central;Itumbiara;GO;38168460
+143;Rua Goiás;2763;Setor Sul;Luziânia;GO;71296666
+144;Rua das Palmeiras;8247;Jardim América;Anápolis;GO;21044789
+145;Rua 5;613;Setor Universitário;Anápolis;GO;48909010
+146;Avenida Marginal;2248;Setor Universitário;Itumbiara;GO;18914117
+147;Rua das Flores;1459;Setor Oeste;Goiânia;GO;97218114
+148;Rua Rio Vermelho;2794;Vila Nova;Brasília;DF;57941552
+149;Avenida T-63;2970;Setor Universitário;Brasília;DF;59027716
+150;Rua 5;6306;Setor Sul;Formosa;GO;89002877
+151;Avenida Brasil;8167;Setor Central;Formosa;GO;51701660
+152;Rua Bela Vista;9830;Setor Central;Catalão;GO;57113055
+153;Avenida T-63;3123;Vila Nova;Rio Verde;GO;16091779
+154;Rua 5;8260;Setor Universitário;Itumbiara;GO;69346547
+155;Rua Rio Vermelho;5282;Setor Oeste;Caldas Novas;GO;58799684
+156;Rua 24;530;Vila Nova;Morrinhos;GO;71983863
+157;Rua Rio Vermelho;6026;Setor Aeroporto;Goiatuba;GO;93347212
+158;Rua 7;5286;Centro;Goiânia;GO;94798515
+159;Rua Goiás;8692;Setor Central;Luziânia;GO;80157399
+160;Rua Rio Vermelho;3155;Vila Nova;Luziânia;GO;81128801
+161;Rua das Flores;2917;Jardim América;Anápolis;GO;81934667
+162;Rua Rio Vermelho;4938;Setor Oeste;Morrinhos;GO;47660728
+163;Rua das Palmeiras;8801;Setor Aeroporto;Itumbiara;GO;14353682
+164;Avenida Marginal;7983;Vila Nova;Caldas Novas;GO;52314913
+165;Rua Goiás;7146;Jardim América;Morrinhos;GO;52577754
+166;Rua das Palmeiras;9668;Setor Bueno;Itumbiara;GO;08488725
+167;Rua 7;2936;Setor Sul;Formosa;GO;75037314
+168;Rua das Palmeiras;6202;Vila Nova;Aparecida de Goiânia;GO;91846386
+169;Rua 5;9864;Setor Oeste;Aparecida de Goiânia;GO;36517773
+170;Rua 7;8465;Setor Universitário;Luziânia;GO;99041379
+171;Rua das Palmeiras;2167;Setor Oeste;Trindade;GO;03886291
+172;Rua das Flores;8681;Setor Universitário;Jataí;GO;37659916
+173;Rua das Palmeiras;3366;Vila Nova;Goiânia;GO;65126944
+174;Avenida Marginal;5642;Setor Universitário;Luziânia;GO;21372138
+175;Avenida Marginal;619;Setor Universitário;Anápolis;GO;69849027
+176;Rua Bela Vista;6545;Vila Nova;Luziânia;GO;66938011
+177;Avenida Brasil;8244;Jardim América;Catalão;GO;51848947
+178;Rua 5;8463;Setor Aeroporto;Trindade;GO;04341651
+179;Rua Goiás;5834;Setor Sul;Jataí;GO;11179080
+180;Rua 24;534;Setor Aeroporto;Formosa;GO;56271875
+181;Rua 7;8172;Setor Universitário;Valparaíso de Goiás;GO;36556472
+182;Rua 7;8471;Setor Aeroporto;Formosa;GO;57448906
+183;Avenida Brasil;5753;Setor Bueno;Trindade;GO;99824558
+184;Rua 7;5630;Setor Bueno;Anápolis;GO;55449647
+185;Avenida T-63;8986;Centro;Goiatuba;GO;06811492
+186;Rua 24;4464;Setor Aeroporto;Jataí;GO;72829979
+187;Rua 24;2234;Vila Nova;Goiânia;GO;47807740
+188;Avenida Brasil;6918;Setor Bueno;Luziânia;GO;89448463
+189;Rua 7;1676;Jardim América;Goiânia;GO;42703120
+190;Rua Goiás;4098;Setor Universitário;Aparecida de Goiânia;GO;01367303
+191;Rua das Flores;3569;Setor Oeste;Goiatuba;GO;36502491
+192;Rua 5;2522;Setor Aeroporto;Goiânia;GO;12735857
+193;Rua 5;7675;Jardim América;Valparaíso de Goiás;GO;98218274
+194;Rua 24;8152;Setor Aeroporto;Rio Verde;GO;29456511
+195;Travessa 3;9672;Jardim América;Itumbiara;GO;05391037
+196;Avenida Brasil;3785;Setor Aeroporto;Anápolis;GO;63383928
+197;Avenida Marginal;7259;Vila Nova;Catalão;GO;58556659
+198;Alameda Tocantins;108;Jardim América;Goiatuba;GO;33504888
+199;Avenida Marginal;3563;Setor Oeste;Trindade;GO;57279194
+200;Rua 5;8847;Setor Sul;Goiânia;GO;58320679
+201;Rua 24;7119;Setor Sul;Trindade;GO;27837693
+202;Avenida Marginal;397;Jardim América;Valparaíso de Goiás;GO;25979270
+203;Rua 5;3425;Setor Aeroporto;Goiânia;GO;33884879
+204;Rua das Palmeiras;4446;Vila Nova;Anápolis;GO;10463681
+205;Rua 5;5766;Vila Nova;Goiânia;GO;43840460
+206;Avenida Marginal;5396;Setor Central;Goiatuba;GO;82329832
+207;Rua 5;6784;Setor Universitário;Morrinhos;GO;47423122
+208;Travessa 3;6127;Setor Sul;Formosa;GO;67722330
+209;Rua das Flores;9961;Setor Universitário;Morrinhos;GO;56999880
+210;Alameda Tocantins;4685;Setor Central;Trindade;GO;26490827
+211;Alameda Tocantins;5310;Setor Sul;Anápolis;GO;11175186
+212;Rua Bela Vista;7312;Jardim América;Caldas Novas;GO;21230940
+213;Rua 24;4557;Setor Aeroporto;Goiatuba;GO;30220502
+214;Avenida Marginal;5902;Centro;Caldas Novas;GO;14556168
+215;Travessa 3;9909;Jardim América;Formosa;GO;69548995
+216;Rua Central;3397;Setor Universitário;Caldas Novas;GO;60558303
+217;Rua Central;5537;Setor Central;Valparaíso de Goiás;GO;70272785
+218;Rua Central;511;Vila Nova;Luziânia;GO;68299629
+219;Rua 5;613;Setor Bueno;Anápolis;GO;17807823
+220;Rua das Flores;9737;Setor Oeste;Goiatuba;GO;57018409
+221;Rua 24;8423;Setor Oeste;Itumbiara;GO;38585424
+222;Rua das Palmeiras;2933;Setor Central;Trindade;GO;95453817
+223;Rua Central;5321;Setor Central;Morrinhos;GO;70171577
+224;Rua Goiás;8978;Setor Sul;Itumbiara;GO;76153966
+225;Rua das Palmeiras;1141;Setor Oeste;Luziânia;GO;96570132
+226;Rua Bela Vista;4990;Setor Universitário;Itumbiara;GO;51909862
+227;Rua 24;3461;Setor Sul;Trindade;GO;72386562
+228;Rua 24;6949;Setor Aeroporto;Formosa;GO;76532690
+229;Travessa 3;1312;Setor Sul;Formosa;GO;84781891
+230;Travessa 3;5432;Setor Universitário;Itumbiara;GO;54420949
+231;Rua 7;4604;Jardim América;Luziânia;GO;40192927
+232;Rua Rio Vermelho;2741;Setor Bueno;Caldas Novas;GO;95041027
+233;Rua 5;8688;Centro;Brasília;DF;18569454
+234;Avenida Brasil;8606;Setor Oeste;Trindade;GO;75344300
+235;Rua Rio Vermelho;1241;Setor Central;Formosa;GO;46542140
+236;Rua das Palmeiras;3579;Setor Oeste;Morrinhos;GO;74101194
+237;Rua das Palmeiras;1149;Setor Aeroporto;Trindade;GO;30671985
+238;Rua Rio Vermelho;3130;Jardim América;Trindade;GO;61571732
+239;Avenida Brasil;3469;Setor Aeroporto;Trindade;GO;78293102
+240;Rua Central;1743;Setor Oeste;Anápolis;GO;79931365
+241;Avenida T-63;3992;Centro;Aparecida de Goiânia;GO;21962071
+242;Avenida Marginal;617;Setor Sul;Aparecida de Goiânia;GO;79145608
+243;Rua 7;707;Centro;Aparecida de Goiânia;GO;54364597
+244;Travessa 3;5337;Setor Bueno;Rio Verde;GO;15313636
+245;Rua 5;2085;Centro;Rio Verde;GO;90421776
+246;Avenida T-63;7582;Jardim América;Itumbiara;GO;06335693
+247;Rua 24;204;Setor Universitário;Anápolis;GO;32543107
+248;Travessa 3;5455;Setor Aeroporto;Goiatuba;GO;04649893
+249;Avenida Brasil;9188;Setor Bueno;Caldas Novas;GO;25381793
+250;Rua 24;8731;Jardim América;Caldas Novas;GO;79513711
+251;Rua 5;6884;Setor Central;Formosa;GO;04310385
+252;Alameda Tocantins;776;Setor Sul;Valparaíso de Goiás;GO;54729284
+253;Rua 5;5634;Setor Sul;Brasília;DF;57828410
+254;Travessa 3;1841;Setor Central;Valparaíso de Goiás;GO;02814069
+255;Rua das Palmeiras;3186;Setor Central;Catalão;GO;59980562
+256;Travessa 3;6945;Setor Universitário;Morrinhos;GO;29912347
+257;Avenida T-63;692;Jardim América;Catalão;GO;94787300
+258;Avenida Marginal;7145;Jardim América;Formosa;GO;71589042
+259;Rua Goiás;3003;Setor Oeste;Catalão;GO;92855445
+260;Rua Goiás;3088;Setor Aeroporto;Catalão;GO;98881671
+261;Travessa 3;2333;Setor Bueno;Jataí;GO;42321611
+262;Avenida Brasil;2029;Setor Bueno;Morrinhos;GO;93250124
+263;Rua Bela Vista;8801;Centro;Aparecida de Goiânia;GO;13875927
+264;Alameda Tocantins;9129;Centro;Caldas Novas;GO;15716479
+265;Rua Rio Vermelho;1393;Setor Oeste;Catalão;GO;26691215
+266;Alameda Tocantins;2415;Setor Central;Catalão;GO;11477320
+267;Avenida T-63;7636;Setor Bueno;Morrinhos;GO;47784858
+268;Rua das Palmeiras;2204;Jardim América;Formosa;GO;67197889
+269;Rua 7;6004;Vila Nova;Goiânia;GO;90561655
+270;Avenida T-63;6922;Setor Aeroporto;Goiânia;GO;64079056
+271;Rua Rio Vermelho;1235;Setor Aeroporto;Formosa;GO;34404963
+272;Rua Rio Vermelho;8847;Vila Nova;Trindade;GO;36649878
+273;Rua Goiás;2466;Jardim América;Aparecida de Goiânia;GO;66513644
+274;Rua 7;4469;Setor Sul;Rio Verde;GO;04482070
+275;Rua 24;4126;Setor Central;Morrinhos;GO;13915596
+276;Rua das Palmeiras;7781;Setor Bueno;Catalão;GO;42575409
+277;Rua das Palmeiras;4187;Jardim América;Goiatuba;GO;13432756
+278;Travessa 3;449;Centro;Formosa;GO;27206345
+279;Avenida Brasil;6792;Vila Nova;Rio Verde;GO;26693008
+280;Avenida Brasil;232;Setor Aeroporto;Itumbiara;GO;67713334
+281;Avenida Marginal;7389;Setor Bueno;Rio Verde;GO;59710725
+282;Rua Bela Vista;9802;Centro;Brasília;DF;04896465
+283;Rua das Flores;2096;Setor Central;Valparaíso de Goiás;GO;45644948
+284;Travessa 3;7654;Setor Universitário;Aparecida de Goiânia;GO;17075877
+285;Avenida Marginal;2959;Setor Universitário;Morrinhos;GO;13715041
+286;Travessa 3;9326;Setor Sul;Valparaíso de Goiás;GO;30450189
+287;Rua das Palmeiras;5081;Setor Sul;Morrinhos;GO;51583776
+288;Avenida T-63;8639;Setor Aeroporto;Goiatuba;GO;14761742
+289;Rua Rio Vermelho;9314;Jardim América;Formosa;GO;54918017
+290;Travessa 3;9897;Jardim América;Anápolis;GO;16800610
+291;Avenida Brasil;261;Setor Bueno;Rio Verde;GO;03723683
+292;Avenida Marginal;6419;Centro;Luziânia;GO;50166799
+293;Alameda Tocantins;6835;Setor Central;Anápolis;GO;17957602
+294;Avenida T-63;2655;Setor Bueno;Morrinhos;GO;41722329
+295;Rua das Palmeiras;1868;Setor Bueno;Valparaíso de Goiás;GO;18374550
+296;Avenida Brasil;3366;Vila Nova;Brasília;DF;24787125
+297;Rua Rio Vermelho;4022;Setor Sul;Brasília;DF;86326667
+298;Rua das Flores;2474;Centro;Morrinhos;GO;84668455
+299;Rua 5;6390;Setor Sul;Catalão;GO;88431884
+300;Avenida Brasil;783;Setor Oeste;Valparaíso de Goiás;GO;74907539
+301;Avenida Brasil;2402;Setor Universitário;Formosa;GO;61106273
+302;Avenida T-63;7500;Setor Sul;Aparecida de Goiânia;GO;88137702
+303;Rua das Flores;2341;Setor Sul;Formosa;GO;96044327
+304;Rua Rio Vermelho;7552;Setor Central;Catalão;GO;72519966
+305;Rua Bela Vista;867;Setor Aeroporto;Itumbiara;GO;37801820
+306;Rua das Palmeiras;395;Setor Aeroporto;Aparecida de Goiânia;GO;56411182
+307;Rua 5;2335;Setor Universitário;Anápolis;GO;54610339
+308;Avenida Marginal;1664;Setor Bueno;Catalão;GO;82496718
+309;Avenida T-63;4478;Jardim América;Goiânia;GO;65398402
+310;Rua Goiás;5270;Vila Nova;Luziânia;GO;37950209
+311;Rua das Palmeiras;2904;Centro;Valparaíso de Goiás;GO;17537030
+312;Rua Central;6490;Setor Oeste;Rio Verde;GO;49872839
+313;Avenida T-63;33;Setor Universitário;Goiatuba;GO;05664187
+314;Rua das Flores;3697;Setor Universitário;Morrinhos;GO;13325411
+315;Avenida Marginal;7185;Setor Oeste;Morrinhos;GO;79110065
+316;Avenida Marginal;6736;Setor Bueno;Anápolis;GO;99076769
+317;Rua 5;6898;Setor Central;Luziânia;GO;97232002
+318;Rua Rio Vermelho;2370;Centro;Brasília;DF;38806533
+319;Avenida T-63;692;Setor Central;Anápolis;GO;30337933
+320;Rua Rio Vermelho;9596;Vila Nova;Rio Verde;GO;00334234
+321;Rua 5;6101;Setor Sul;Rio Verde;GO;89611223
+322;Rua Bela Vista;4589;Setor Sul;Brasília;DF;89731791
+323;Rua das Flores;3395;Setor Bueno;Brasília;DF;37363466
+324;Avenida T-63;7661;Setor Universitário;Trindade;GO;65754602
+325;Rua Goiás;5469;Setor Bueno;Catalão;GO;54443928
+326;Rua 24;9618;Setor Aeroporto;Rio Verde;GO;77515366
+327;Rua 5;9617;Centro;Luziânia;GO;90225999
+328;Rua 24;2911;Centro;Brasília;DF;97023164
+329;Travessa 3;1127;Setor Universitário;Formosa;GO;32346729
+330;Avenida Marginal;8044;Setor Central;Goiatuba;GO;79014754
+331;Rua Rio Vermelho;8811;Jardim América;Goiatuba;GO;13768151
+332;Rua das Flores;176;Jardim América;Trindade;GO;12577711
+333;Rua Rio Vermelho;184;Jardim América;Anápolis;GO;27523083
+334;Rua das Palmeiras;458;Centro;Goiânia;GO;53131220
+335;Rua 7;246;Setor Universitário;Valparaíso de Goiás;GO;50637314
+336;Rua Bela Vista;2178;Vila Nova;Brasília;DF;25715099
+337;Rua 5;8172;Jardim América;Aparecida de Goiânia;GO;32630397
+338;Rua Rio Vermelho;3645;Setor Universitário;Morrinhos;GO;85270171
+339;Rua Goiás;4013;Setor Universitário;Caldas Novas;GO;29344973
+340;Rua Central;1364;Jardim América;Trindade;GO;98282467
+341;Rua das Palmeiras;6813;Setor Universitário;Formosa;GO;56749160
+342;Rua Central;5922;Centro;Goiatuba;GO;24972439
+343;Rua 24;6272;Jardim América;Catalão;GO;61195243
+344;Rua 7;3245;Setor Central;Caldas Novas;GO;28179323
+345;Avenida Marginal;3847;Setor Central;Goiânia;GO;71004090
+346;Rua Rio Vermelho;6529;Setor Universitário;Valparaíso de Goiás;GO;90551076
+347;Rua 5;750;Vila Nova;Brasília;DF;73976915
+348;Rua Rio Vermelho;8991;Setor Central;Jataí;GO;27178333
+349;Rua Bela Vista;5453;Setor Bueno;Anápolis;GO;99156686
+350;Rua das Flores;5093;Centro;Caldas Novas;GO;98366552
+351;Rua Rio Vermelho;563;Vila Nova;Caldas Novas;GO;48149737
+352;Rua das Palmeiras;7757;Vila Nova;Valparaíso de Goiás;GO;66184438
+353;Travessa 3;3206;Centro;Morrinhos;GO;59126620
+354;Travessa 3;9768;Setor Sul;Luziânia;GO;61764750
+355;Rua Rio Vermelho;7106;Jardim América;Formosa;GO;92151826
+356;Rua das Flores;2111;Setor Bueno;Anápolis;GO;21840118
+357;Rua 5;9932;Setor Aeroporto;Catalão;GO;83103032
+358;Alameda Tocantins;6969;Setor Sul;Anápolis;GO;83143598
+359;Rua Rio Vermelho;1458;Vila Nova;Valparaíso de Goiás;GO;54234016
+360;Rua 5;6383;Setor Sul;Aparecida de Goiânia;GO;58896792
+361;Rua Bela Vista;7679;Setor Aeroporto;Valparaíso de Goiás;GO;44683414
+362;Rua 24;2236;Setor Central;Brasília;DF;78816093
+363;Rua 5;835;Setor Universitário;Catalão;GO;76251538
+364;Rua das Flores;7543;Vila Nova;Valparaíso de Goiás;GO;45105265
+365;Alameda Tocantins;5972;Setor Universitário;Valparaíso de Goiás;GO;28417722
+366;Alameda Tocantins;1947;Setor Universitário;Brasília;DF;78725686
+367;Avenida T-63;1354;Setor Universitário;Luziânia;GO;39282341
+368;Rua Goiás;2396;Setor Universitário;Luziânia;GO;09310668
+369;Rua das Palmeiras;4047;Vila Nova;Caldas Novas;GO;02000534
+370;Rua Bela Vista;5921;Setor Aeroporto;Caldas Novas;GO;95343961
+371;Travessa 3;2518;Centro;Catalão;GO;23684855
+372;Rua das Flores;3117;Setor Universitário;Itumbiara;GO;78812786
+373;Alameda Tocantins;3610;Jardim América;Luziânia;GO;48123083
+374;Travessa 3;9000;Jardim América;Anápolis;GO;26945005
+375;Avenida Marginal;6480;Setor Sul;Rio Verde;GO;73652717
+376;Rua das Palmeiras;4019;Setor Central;Anápolis;GO;61820916
+377;Travessa 3;1393;Setor Bueno;Jataí;GO;27972457
+378;Rua Goiás;6999;Setor Universitário;Goiânia;GO;25436172
+379;Rua 7;6968;Setor Sul;Itumbiara;GO;49451475
+380;Avenida Brasil;5293;Setor Sul;Aparecida de Goiânia;GO;26557676
+381;Avenida Marginal;6912;Setor Aeroporto;Anápolis;GO;93135030
+382;Travessa 3;2258;Setor Oeste;Goiânia;GO;26065019
+383;Rua 24;4908;Setor Central;Caldas Novas;GO;65704120
+384;Rua das Palmeiras;2051;Setor Bueno;Catalão;GO;69036289
+385;Avenida Marginal;5497;Centro;Valparaíso de Goiás;GO;34281139
+386;Avenida Brasil;5057;Centro;Valparaíso de Goiás;GO;54683565
+387;Rua Rio Vermelho;7588;Setor Oeste;Aparecida de Goiânia;GO;13322889
+388;Rua Rio Vermelho;8152;Setor Oeste;Itumbiara;GO;02481717
+389;Avenida Marginal;8000;Centro;Anápolis;GO;54669275
+390;Rua das Palmeiras;2593;Setor Universitário;Luziânia;GO;13671577
+391;Alameda Tocantins;7448;Centro;Anápolis;GO;82723590
+392;Alameda Tocantins;6637;Setor Oeste;Anápolis;GO;47683420
+393;Avenida Marginal;3254;Setor Oeste;Morrinhos;GO;99255027
+394;Travessa 3;8948;Setor Sul;Trindade;GO;96353390
+395;Rua 7;7518;Setor Universitário;Anápolis;GO;52892866
+396;Avenida T-63;8248;Centro;Brasília;DF;46337861
+397;Rua das Palmeiras;536;Centro;Goiânia;GO;02589552
+398;Rua Goiás;1632;Setor Sul;Trindade;GO;81964825
+399;Rua Rio Vermelho;5868;Setor Sul;Brasília;DF;33438364
+400;Avenida Brasil;8098;Vila Nova;Anápolis;GO;36170617
+401;Avenida T-63;9831;Setor Aeroporto;Valparaíso de Goiás;GO;02841390
+402;Rua 5;9036;Jardim América;Anápolis;GO;77686342
+403;Avenida Brasil;9950;Setor Universitário;Itumbiara;GO;63955172
+404;Rua Goiás;6090;Vila Nova;Anápolis;GO;25105053
+405;Rua Rio Vermelho;6910;Setor Universitário;Goiatuba;GO;55330770
+406;Rua 7;6600;Centro;Luziânia;GO;88050171
+407;Rua 5;1684;Centro;Jataí;GO;30021563
+408;Rua 7;2258;Setor Central;Caldas Novas;GO;12529671
+409;Avenida Brasil;1232;Setor Central;Caldas Novas;GO;03037637
+410;Rua das Palmeiras;3080;Setor Oeste;Morrinhos;GO;46249127
+411;Rua Goiás;2468;Setor Universitário;Trindade;GO;86850745
+412;Rua Rio Vermelho;818;Setor Bueno;Anápolis;GO;13100943
+413;Avenida Marginal;4719;Centro;Caldas Novas;GO;12897432
+414;Rua 5;7764;Centro;Itumbiara;GO;73710094
+415;Rua das Flores;5778;Jardim América;Formosa;GO;58971480
+416;Avenida T-63;8633;Setor Sul;Goiatuba;GO;45569644
+417;Alameda Tocantins;9145;Setor Sul;Catalão;GO;47414070
+418;Avenida Brasil;4435;Setor Sul;Aparecida de Goiânia;GO;36914307
+419;Rua 7;6821;Setor Aeroporto;Luziânia;GO;34414978
+420;Rua 24;433;Setor Universitário;Goiatuba;GO;12943985
+421;Avenida Brasil;4761;Setor Central;Itumbiara;GO;50198038
+422;Avenida Brasil;8517;Setor Oeste;Itumbiara;GO;33170876
+423;Travessa 3;3944;Setor Sul;Jataí;GO;88377441
+424;Alameda Tocantins;559;Setor Central;Itumbiara;GO;05277402
+425;Rua das Palmeiras;1118;Setor Central;Goiatuba;GO;67929884
+426;Rua Bela Vista;3877;Setor Oeste;Morrinhos;GO;26610941
+427;Avenida T-63;7169;Jardim América;Luziânia;GO;33268319
+428;Rua Goiás;9345;Setor Central;Jataí;GO;85598217
+429;Rua Central;4750;Jardim América;Rio Verde;GO;65124189
+430;Rua Bela Vista;974;Setor Sul;Valparaíso de Goiás;GO;38503719
+431;Rua Rio Vermelho;5739;Setor Universitário;Rio Verde;GO;74300038
+432;Rua Goiás;5622;Setor Universitário;Valparaíso de Goiás;GO;03319036
+433;Avenida Marginal;6518;Setor Central;Aparecida de Goiânia;GO;11148375
+434;Avenida Brasil;3336;Setor Sul;Luziânia;GO;83483152
+435;Avenida Marginal;6291;Setor Central;Jataí;GO;06670336
+436;Rua das Palmeiras;936;Setor Oeste;Jataí;GO;86487699
+437;Alameda Tocantins;5927;Jardim América;Itumbiara;GO;49014954
+438;Avenida Brasil;7217;Setor Sul;Valparaíso de Goiás;GO;44472322
+439;Rua Rio Vermelho;5790;Setor Aeroporto;Goiânia;GO;09351187
+440;Rua Rio Vermelho;6140;Setor Central;Trindade;GO;49025042
+441;Rua Goiás;9264;Setor Aeroporto;Goiatuba;GO;98681809
+442;Travessa 3;6717;Vila Nova;Formosa;GO;15881579
+443;Rua das Palmeiras;8275;Setor Sul;Trindade;GO;97327021
+444;Rua das Palmeiras;9125;Setor Bueno;Aparecida de Goiânia;GO;41559991
+445;Avenida Marginal;6061;Setor Central;Itumbiara;GO;65728941
+446;Travessa 3;3452;Setor Universitário;Jataí;GO;84995154
+447;Rua 24;2767;Centro;Jataí;GO;90883070
+448;Travessa 3;1909;Vila Nova;Luziânia;GO;13152854
+449;Rua Central;3608;Setor Bueno;Trindade;GO;47272742
+450;Rua Rio Vermelho;5714;Setor Central;Rio Verde;GO;82434776
+451;Avenida Brasil;5695;Setor Universitário;Brasília;DF;27796304
+452;Rua Goiás;5568;Centro;Caldas Novas;GO;47639283
+453;Rua 24;3252;Setor Sul;Valparaíso de Goiás;GO;86342556
+454;Rua Bela Vista;4052;Centro;Brasília;DF;41662411
+455;Rua das Flores;4951;Jardim América;Caldas Novas;GO;73149764
+456;Rua Goiás;9468;Centro;Formosa;GO;63757914
+457;Rua Goiás;966;Setor Central;Morrinhos;GO;46452059
+458;Avenida Brasil;6975;Setor Oeste;Goiatuba;GO;62028123
+459;Rua Rio Vermelho;4442;Setor Aeroporto;Caldas Novas;GO;59592248
+460;Rua 7;7709;Setor Oeste;Aparecida de Goiânia;GO;04331875
+461;Rua Bela Vista;6608;Jardim América;Itumbiara;GO;88319213
+462;Rua Goiás;3547;Setor Oeste;Morrinhos;GO;92227051
+463;Rua Central;8553;Vila Nova;Luziânia;GO;81932426
+464;Rua 5;2933;Centro;Trindade;GO;37583094
+465;Rua Rio Vermelho;7447;Setor Central;Itumbiara;GO;27810509
+466;Rua Central;5186;Setor Sul;Valparaíso de Goiás;GO;95806601
+467;Rua 24;5746;Setor Oeste;Luziânia;GO;57919711
+468;Rua das Flores;6215;Jardim América;Luziânia;GO;24295633
+469;Rua 7;8814;Setor Bueno;Trindade;GO;65435884
+470;Rua Rio Vermelho;9641;Centro;Trindade;GO;51502675
+471;Rua Central;3991;Jardim América;Formosa;GO;59576403
+472;Rua 7;2129;Vila Nova;Morrinhos;GO;01425762
+473;Avenida T-63;2611;Vila Nova;Goiânia;GO;17863767
+474;Rua Goiás;9971;Setor Sul;Goiânia;GO;35558099
+475;Rua das Palmeiras;7876;Centro;Luziânia;GO;46226817
+476;Rua das Flores;4964;Setor Universitário;Morrinhos;GO;41978575
+477;Avenida T-63;4616;Centro;Goiânia;GO;17750954
+478;Rua 5;600;Setor Aeroporto;Anápolis;GO;63218122
+479;Travessa 3;1291;Vila Nova;Catalão;GO;46602416
+480;Rua Rio Vermelho;750;Setor Universitário;Catalão;GO;24406306
+481;Rua Rio Vermelho;9753;Vila Nova;Trindade;GO;86780555
+482;Rua Goiás;8677;Vila Nova;Anápolis;GO;44577029
+483;Rua Goiás;3463;Setor Oeste;Trindade;GO;94226865
+484;Avenida T-63;2572;Setor Sul;Jataí;GO;64085721
+485;Avenida Marginal;4096;Setor Sul;Valparaíso de Goiás;GO;97150968
+486;Rua Rio Vermelho;9884;Setor Central;Rio Verde;GO;32781952
+487;Avenida T-63;980;Jardim América;Formosa;GO;60568761
+488;Travessa 3;8054;Setor Bueno;Goiatuba;GO;45475749
+489;Avenida T-63;4832;Setor Sul;Caldas Novas;GO;22946430
+490;Rua 5;6193;Setor Central;Catalão;GO;28727601
+491;Rua Rio Vermelho;539;Setor Universitário;Valparaíso de Goiás;GO;15814888
+492;Rua Central;1044;Setor Sul;Caldas Novas;GO;84033399
+493;Alameda Tocantins;9328;Centro;Formosa;GO;96173997
+494;Rua 24;8243;Jardim América;Brasília;DF;71270587
+495;Rua 5;8691;Setor Central;Luziânia;GO;14939252
+496;Rua 7;5018;Vila Nova;Valparaíso de Goiás;GO;55746966
+497;Rua Bela Vista;6266;Vila Nova;Trindade;GO;88339874
+498;Rua Rio Vermelho;5615;Jardim América;Goiânia;GO;85741721
+499;Rua 24;4775;Centro;Catalão;GO;21557325
+500;Rua 24;6120;Centro;Goiânia;GO;96085874
+501;Rua Rio Vermelho;7061;Jardim América;Morrinhos;GO;77251295
+502;Rua Central;3652;Vila Nova;Luziânia;GO;87395923
+503;Rua 7;6952;Jardim América;Luziânia;GO;33502716
+504;Rua 24;1994;Setor Sul;Caldas Novas;GO;31795563
+505;Avenida Brasil;7114;Jardim América;Jataí;GO;31670450
+506;Rua 7;2862;Setor Aeroporto;Trindade;GO;22512073
+507;Rua Bela Vista;9806;Setor Aeroporto;Trindade;GO;22105316
+508;Rua Rio Vermelho;1580;Setor Central;Itumbiara;GO;79323822
+509;Alameda Tocantins;2158;Vila Nova;Itumbiara;GO;65290603
+510;Avenida T-63;4306;Setor Aeroporto;Rio Verde;GO;71485524
+511;Avenida Brasil;1971;Setor Aeroporto;Jataí;GO;42547681
+512;Rua 24;3776;Setor Aeroporto;Valparaíso de Goiás;GO;25212932
+513;Travessa 3;9106;Jardim América;Luziânia;GO;39910622
+514;Travessa 3;9600;Setor Sul;Anápolis;GO;37245018
+515;Alameda Tocantins;1849;Setor Central;Jataí;GO;69274381
+516;Avenida Brasil;212;Setor Oeste;Valparaíso de Goiás;GO;73973964
+517;Rua Goiás;5910;Setor Universitário;Morrinhos;GO;60577980
+518;Rua Rio Vermelho;5637;Vila Nova;Jataí;GO;34705742
+519;Travessa 3;1482;Setor Universitário;Goiatuba;GO;59726347
+520;Rua das Palmeiras;1245;Setor Bueno;Aparecida de Goiânia;GO;11964258
+521;Rua Goiás;3588;Setor Bueno;Formosa;GO;37320430
+522;Rua 5;5973;Setor Bueno;Trindade;GO;58512538
+523;Avenida Marginal;7147;Setor Oeste;Formosa;GO;20878057
+524;Rua Rio Vermelho;4992;Vila Nova;Caldas Novas;GO;39862895
+525;Avenida T-63;1958;Vila Nova;Brasília;DF;11696667
+526;Avenida T-63;1541;Setor Aeroporto;Valparaíso de Goiás;GO;40908051
+527;Rua Goiás;5657;Setor Oeste;Catalão;GO;29592728
+528;Rua 7;5528;Setor Central;Itumbiara;GO;86718153
+529;Rua 24;8548;Setor Universitário;Caldas Novas;GO;83452734
+530;Rua Central;683;Setor Bueno;Catalão;GO;14998250
+531;Rua 7;3631;Vila Nova;Formosa;GO;13739900
+532;Avenida Marginal;4231;Setor Universitário;Rio Verde;GO;94346066
+533;Rua 24;5364;Setor Sul;Aparecida de Goiânia;GO;46484494
+534;Rua Central;6359;Setor Sul;Goiânia;GO;11369572
+535;Rua das Palmeiras;2509;Jardim América;Trindade;GO;81323570
+536;Rua das Flores;2351;Setor Oeste;Valparaíso de Goiás;GO;30609069
+537;Rua Rio Vermelho;7455;Setor Central;Valparaíso de Goiás;GO;27853242
+538;Rua das Palmeiras;6845;Setor Central;Trindade;GO;77675556
+539;Avenida T-63;1781;Setor Aeroporto;Aparecida de Goiânia;GO;74960335
+540;Rua Bela Vista;3241;Setor Sul;Itumbiara;GO;65732759
+541;Rua Central;1082;Vila Nova;Luziânia;GO;95977524
+542;Rua Rio Vermelho;2403;Setor Central;Anápolis;GO;10267672
+543;Rua 7;4917;Setor Universitário;Aparecida de Goiânia;GO;21354159
+544;Avenida T-63;7094;Vila Nova;Luziânia;GO;04715802
+545;Rua 5;2169;Vila Nova;Caldas Novas;GO;48374417
+546;Rua das Flores;5590;Setor Oeste;Caldas Novas;GO;29751910
+547;Rua Goiás;8116;Setor Sul;Jataí;GO;74907280
+548;Rua 24;4677;Setor Bueno;Trindade;GO;64538044
+549;Travessa 3;5228;Setor Central;Luziânia;GO;57574758
+550;Rua Central;2285;Vila Nova;Goiânia;GO;62650622
+551;Rua Goiás;7972;Setor Central;Rio Verde;GO;66270511
+552;Rua 7;8678;Jardim América;Itumbiara;GO;55259710
+553;Rua Goiás;9714;Setor Bueno;Goiatuba;GO;37970581
+554;Rua Goiás;3660;Centro;Formosa;GO;55978245
+555;Travessa 3;179;Jardim América;Trindade;GO;43240061
+556;Avenida Marginal;2106;Vila Nova;Aparecida de Goiânia;GO;01058752
+557;Travessa 3;2161;Setor Central;Goiânia;GO;11221823
+558;Avenida Brasil;3396;Setor Central;Jataí;GO;21433080
+559;Alameda Tocantins;8065;Centro;Morrinhos;GO;68103903
+560;Rua 5;8371;Setor Universitário;Catalão;GO;23945354
+561;Avenida Marginal;4893;Setor Bueno;Morrinhos;GO;94570394
+562;Avenida Marginal;4676;Setor Bueno;Catalão;GO;19100900
+563;Rua Bela Vista;574;Setor Oeste;Luziânia;GO;42473107
+564;Rua Rio Vermelho;6184;Centro;Trindade;GO;07676209
+565;Travessa 3;8005;Setor Bueno;Catalão;GO;04519577
+566;Rua Central;8103;Setor Aeroporto;Aparecida de Goiânia;GO;65619425
+567;Travessa 3;6494;Setor Oeste;Jataí;GO;61880819
+568;Rua Bela Vista;1744;Setor Bueno;Caldas Novas;GO;72308172
+569;Rua Bela Vista;1169;Setor Oeste;Jataí;GO;47165609
+570;Alameda Tocantins;7760;Setor Universitário;Goiânia;GO;81699570
+571;Alameda Tocantins;9055;Setor Central;Valparaíso de Goiás;GO;39610290
+572;Rua 7;653;Jardim América;Jataí;GO;95612137
+573;Rua 7;2281;Setor Sul;Anápolis;GO;99077560
+574;Rua Goiás;2254;Setor Oeste;Catalão;GO;02192378
+575;Rua 5;983;Setor Aeroporto;Goiânia;GO;01849804
+576;Rua 7;8354;Setor Sul;Brasília;DF;17819236
+577;Rua Bela Vista;8349;Setor Universitário;Itumbiara;GO;23984716
+578;Avenida T-63;8380;Setor Central;Jataí;GO;69899927
+579;Rua Goiás;9274;Setor Bueno;Goiatuba;GO;54358644
+580;Travessa 3;4776;Setor Bueno;Anápolis;GO;39527536
+581;Alameda Tocantins;8111;Setor Central;Morrinhos;GO;89489634
+582;Avenida Brasil;8987;Setor Aeroporto;Luziânia;GO;42163090
+583;Avenida Marginal;5190;Setor Bueno;Catalão;GO;26389021
+584;Rua das Flores;3913;Jardim América;Anápolis;GO;69967331
+585;Avenida T-63;8316;Setor Universitário;Goiânia;GO;79352196
+586;Travessa 3;1060;Setor Central;Brasília;DF;06955607
+587;Rua Bela Vista;3207;Centro;Catalão;GO;65031219
+588;Rua Goiás;1512;Centro;Anápolis;GO;92487623
+589;Rua das Flores;5333;Setor Sul;Morrinhos;GO;48088062
+590;Avenida Marginal;693;Setor Oeste;Brasília;DF;62047876
+591;Rua Bela Vista;597;Setor Bueno;Aparecida de Goiânia;GO;19541966
+592;Rua Goiás;7194;Jardim América;Goiânia;GO;76775372
+593;Rua 24;9038;Setor Central;Jataí;GO;07155348
+594;Avenida Marginal;5351;Jardim América;Valparaíso de Goiás;GO;50891776
+595;Rua das Flores;4963;Centro;Goiânia;GO;23693626
+596;Rua 5;6097;Setor Central;Morrinhos;GO;49885582
+597;Alameda Tocantins;4222;Setor Oeste;Itumbiara;GO;28333721
+598;Rua das Palmeiras;7081;Setor Sul;Trindade;GO;67055143
+599;Avenida Brasil;1349;Centro;Anápolis;GO;28671200
+600;Rua das Flores;3150;Setor Sul;Itumbiara;GO;67149498
+601;Rua 7;7745;Setor Central;Brasília;DF;58446634
+602;Rua 5;5243;Setor Bueno;Morrinhos;GO;76618943
+603;Rua 7;5357;Setor Universitário;Formosa;GO;59202461
+604;Avenida Marginal;6112;Vila Nova;Morrinhos;GO;01783325
+605;Alameda Tocantins;5450;Centro;Goiânia;GO;69176799
+606;Avenida T-63;3916;Setor Universitário;Jataí;GO;06014886
+607;Rua 24;3282;Centro;Aparecida de Goiânia;GO;61537012
+608;Rua 7;1990;Centro;Anápolis;GO;31421751
+609;Rua das Flores;1416;Setor Oeste;Caldas Novas;GO;22528837
+610;Rua Bela Vista;7502;Setor Universitário;Catalão;GO;55300730
+611;Avenida T-63;8100;Setor Aeroporto;Aparecida de Goiânia;GO;85190534
+612;Avenida T-63;5053;Jardim América;Anápolis;GO;60045212
+613;Alameda Tocantins;9015;Setor Aeroporto;Luziânia;GO;18984841
+614;Rua Bela Vista;5917;Setor Universitário;Formosa;GO;81429831
+615;Rua Goiás;973;Setor Universitário;Catalão;GO;39638452
+616;Rua 7;9448;Setor Sul;Caldas Novas;GO;91320330
+617;Travessa 3;2020;Vila Nova;Aparecida de Goiânia;GO;56684732
+618;Rua Central;977;Setor Central;Morrinhos;GO;84361424
+619;Avenida T-63;3614;Setor Central;Aparecida de Goiânia;GO;20376388
+620;Rua Goiás;9109;Setor Aeroporto;Morrinhos;GO;27802058
+621;Avenida Brasil;6225;Setor Central;Valparaíso de Goiás;GO;93350557
+622;Travessa 3;1190;Setor Oeste;Catalão;GO;87233351
+623;Travessa 3;3952;Centro;Catalão;GO;74820736
+624;Rua 7;2572;Setor Bueno;Rio Verde;GO;02333247
+625;Rua 5;576;Setor Aeroporto;Aparecida de Goiânia;GO;26112312
+626;Avenida T-63;6962;Setor Sul;Rio Verde;GO;97454930
+627;Rua Rio Vermelho;9514;Setor Sul;Goiatuba;GO;08283230
+628;Rua das Palmeiras;8037;Setor Bueno;Goiânia;GO;23182971
+629;Rua Bela Vista;9599;Setor Oeste;Aparecida de Goiânia;GO;13717850
+630;Avenida T-63;8557;Setor Oeste;Luziânia;GO;22489056
+631;Rua 24;2457;Setor Universitário;Luziânia;GO;69136248
+632;Rua Central;9147;Setor Central;Itumbiara;GO;95098221
+633;Rua Goiás;8449;Setor Bueno;Goiatuba;GO;63816432
+634;Travessa 3;8657;Setor Universitário;Valparaíso de Goiás;GO;31441706
+635;Avenida Brasil;7698;Setor Universitário;Brasília;DF;46448988
+636;Rua Rio Vermelho;943;Jardim América;Luziânia;GO;33335384
+637;Rua Goiás;9721;Setor Oeste;Rio Verde;GO;37326530
+638;Rua 7;3420;Centro;Goiatuba;GO;09156182
+639;Avenida Marginal;5666;Setor Sul;Valparaíso de Goiás;GO;01491189
+640;Avenida Marginal;8288;Setor Sul;Itumbiara;GO;13745561
+641;Travessa 3;1573;Setor Oeste;Catalão;GO;26003083
+642;Rua Central;7042;Setor Aeroporto;Goiânia;GO;82691776
+643;Avenida T-63;9016;Setor Aeroporto;Rio Verde;GO;26033591
+644;Avenida T-63;4182;Setor Sul;Caldas Novas;GO;69996996
+645;Rua das Flores;8200;Jardim América;Luziânia;GO;99323123
+646;Rua das Flores;7242;Setor Sul;Goiatuba;GO;34838935
+647;Rua 24;2413;Setor Universitário;Goiânia;GO;95826418
+648;Rua Bela Vista;1970;Jardim América;Valparaíso de Goiás;GO;34682394
+649;Rua Central;6344;Setor Aeroporto;Anápolis;GO;31139500
+650;Avenida Marginal;7264;Setor Universitário;Jataí;GO;20534407
+651;Rua Central;8063;Setor Central;Caldas Novas;GO;60299140
+652;Avenida T-63;8925;Setor Oeste;Anápolis;GO;70321192
+653;Avenida T-63;1218;Setor Aeroporto;Rio Verde;GO;44490295
+654;Avenida Brasil;2323;Setor Central;Catalão;GO;78221021
+655;Rua das Palmeiras;3796;Setor Aeroporto;Morrinhos;GO;31828560
+656;Rua das Palmeiras;8492;Setor Sul;Goiatuba;GO;05068212
+657;Travessa 3;1194;Setor Aeroporto;Aparecida de Goiânia;GO;21925967
+658;Travessa 3;3766;Setor Aeroporto;Caldas Novas;GO;69484249
+659;Rua 24;6581;Setor Central;Goiatuba;GO;67382097
+660;Travessa 3;2522;Setor Sul;Formosa;GO;58937085
+661;Rua das Flores;2046;Setor Sul;Goiânia;GO;48255442
+662;Avenida Marginal;1690;Vila Nova;Catalão;GO;62415285
+663;Rua 24;6410;Vila Nova;Anápolis;GO;50784685
+664;Avenida T-63;9815;Setor Central;Goiatuba;GO;20385934
+665;Rua Goiás;6873;Setor Central;Itumbiara;GO;81367500
+666;Avenida Marginal;2157;Setor Central;Goiânia;GO;04523888
+667;Rua Central;2746;Setor Sul;Luziânia;GO;75854859
+668;Rua Bela Vista;5028;Vila Nova;Aparecida de Goiânia;GO;39313215
+669;Avenida Marginal;6277;Setor Universitário;Catalão;GO;99727367
+670;Rua Central;1735;Setor Sul;Morrinhos;GO;31239204
+671;Rua 7;7728;Setor Universitário;Catalão;GO;81722577
+672;Rua Bela Vista;7432;Setor Universitário;Jataí;GO;83160827
+673;Avenida Marginal;3508;Setor Universitário;Itumbiara;GO;21659143
+674;Travessa 3;7587;Setor Central;Formosa;GO;32643095
+675;Rua 5;4039;Setor Central;Goiânia;GO;87137529
+676;Avenida Marginal;7629;Setor Aeroporto;Formosa;GO;88975358
+677;Avenida Brasil;5684;Setor Sul;Formosa;GO;39102929
+678;Rua Rio Vermelho;9724;Setor Central;Rio Verde;GO;19126022
+679;Rua 7;2961;Centro;Anápolis;GO;19072587
+680;Rua 7;4622;Setor Sul;Anápolis;GO;11408682
+681;Rua Goiás;9321;Vila Nova;Morrinhos;GO;29701371
+682;Rua 7;7895;Centro;Goiânia;GO;61592738
+683;Rua Rio Vermelho;1754;Vila Nova;Catalão;GO;54203403
+684;Rua das Palmeiras;2826;Setor Bueno;Luziânia;GO;47124760
+685;Avenida Brasil;8012;Setor Sul;Morrinhos;GO;68080815
+686;Travessa 3;3756;Vila Nova;Formosa;GO;10458474
+687;Alameda Tocantins;8130;Centro;Itumbiara;GO;31805339
+688;Rua das Flores;4359;Setor Universitário;Goiânia;GO;66145901
+689;Rua das Flores;5162;Setor Bueno;Itumbiara;GO;15204998
+690;Rua 24;4795;Setor Oeste;Itumbiara;GO;66123740
+691;Avenida T-63;241;Setor Oeste;Itumbiara;GO;42620370
+692;Rua Bela Vista;9580;Setor Central;Catalão;GO;21170889
+693;Rua Goiás;9357;Setor Central;Caldas Novas;GO;85708200
+694;Rua 7;8371;Setor Central;Goiatuba;GO;94296882
+695;Rua das Palmeiras;722;Setor Central;Valparaíso de Goiás;GO;83274883
+696;Travessa 3;4339;Setor Universitário;Rio Verde;GO;04784217
+697;Rua Bela Vista;3638;Jardim América;Itumbiara;GO;86883906
+698;Avenida Brasil;9610;Setor Bueno;Jataí;GO;59236133
+699;Alameda Tocantins;4950;Setor Central;Goiatuba;GO;24191650
+700;Rua 24;686;Setor Aeroporto;Morrinhos;GO;80678214
+701;Avenida Marginal;6486;Setor Aeroporto;Caldas Novas;GO;74869415
+702;Travessa 3;729;Vila Nova;Goiatuba;GO;11716039
+703;Rua das Flores;806;Centro;Formosa;GO;99424894
+704;Rua Central;5092;Vila Nova;Goiânia;GO;65775809
+705;Rua das Palmeiras;5514;Jardim América;Morrinhos;GO;01659953
+706;Rua 5;1104;Setor Universitário;Morrinhos;GO;01124115
+707;Avenida Brasil;2833;Vila Nova;Jataí;GO;70472642
+708;Avenida T-63;9079;Vila Nova;Goiânia;GO;25482421
+709;Rua Goiás;1257;Setor Oeste;Jataí;GO;23274897
+710;Avenida Brasil;7779;Vila Nova;Jataí;GO;08019630
+711;Rua das Flores;1702;Setor Aeroporto;Goiânia;GO;16778481
+712;Rua Goiás;7379;Setor Aeroporto;Itumbiara;GO;10539128
+713;Avenida T-63;9483;Setor Sul;Valparaíso de Goiás;GO;71472463
+714;Rua Bela Vista;1691;Setor Sul;Itumbiara;GO;18706293
+715;Avenida Brasil;8553;Setor Universitário;Goiânia;GO;76610089
+716;Rua 5;3998;Setor Oeste;Goiatuba;GO;98074682
+717;Travessa 3;9640;Setor Universitário;Valparaíso de Goiás;GO;71500666
+718;Avenida Marginal;9691;Jardim América;Trindade;GO;97089058
+719;Rua Goiás;8847;Setor Universitário;Catalão;GO;88891787
+720;Avenida Brasil;2175;Setor Universitário;Goiânia;GO;57898260
+721;Travessa 3;1479;Setor Sul;Luziânia;GO;74692118
+722;Avenida T-63;875;Jardim América;Anápolis;GO;54218545
+723;Rua das Palmeiras;3598;Vila Nova;Brasília;DF;64072324
+724;Avenida T-63;3939;Setor Oeste;Caldas Novas;GO;26168507
+725;Rua das Flores;5943;Setor Bueno;Caldas Novas;GO;70923007
+726;Avenida Marginal;8551;Setor Central;Morrinhos;GO;69893652
+727;Alameda Tocantins;5445;Centro;Goiânia;GO;25896321
+728;Rua das Palmeiras;7337;Setor Bueno;Caldas Novas;GO;98344883
+729;Rua das Flores;6447;Vila Nova;Caldas Novas;GO;79551562
+730;Avenida Brasil;7581;Setor Aeroporto;Anápolis;GO;61902547
+731;Avenida T-63;5141;Vila Nova;Aparecida de Goiânia;GO;00260151
+732;Avenida T-63;3134;Setor Sul;Morrinhos;GO;79805950
+733;Rua Goiás;7020;Centro;Goiânia;GO;89411849
+734;Avenida Brasil;545;Centro;Trindade;GO;67990069
+735;Alameda Tocantins;5026;Vila Nova;Jataí;GO;30067762
+736;Avenida T-63;8803;Jardim América;Anápolis;GO;29029233
+737;Rua das Flores;2482;Setor Oeste;Rio Verde;GO;16673290
+738;Rua das Palmeiras;761;Setor Bueno;Aparecida de Goiânia;GO;36202755
+739;Rua Goiás;7069;Setor Sul;Aparecida de Goiânia;GO;19215818
+740;Avenida Brasil;9643;Vila Nova;Catalão;GO;97721688
+741;Rua 24;4524;Vila Nova;Morrinhos;GO;40182272
+742;Rua Goiás;2158;Setor Aeroporto;Brasília;DF;11659930
+743;Avenida Brasil;3993;Vila Nova;Caldas Novas;GO;30281650
+744;Rua 7;1164;Centro;Rio Verde;GO;29161746
+745;Rua Central;3327;Setor Oeste;Morrinhos;GO;67080568
+746;Alameda Tocantins;4174;Jardim América;Itumbiara;GO;07663493
+747;Alameda Tocantins;2407;Jardim América;Anápolis;GO;36258542
+748;Rua Goiás;9171;Vila Nova;Rio Verde;GO;32472505
+749;Avenida T-63;6397;Jardim América;Jataí;GO;75769453
+750;Rua 5;4679;Vila Nova;Aparecida de Goiânia;GO;08095948
+751;Alameda Tocantins;2240;Setor Bueno;Jataí;GO;59142614
+752;Avenida Brasil;297;Centro;Rio Verde;GO;81785221
+753;Rua Rio Vermelho;8161;Centro;Jataí;GO;17320865
+754;Rua Central;765;Vila Nova;Brasília;DF;27810558
+755;Rua Goiás;9399;Setor Oeste;Luziânia;GO;36817203
+756;Rua 5;3494;Setor Bueno;Itumbiara;GO;22273938
+757;Rua das Palmeiras;1502;Centro;Formosa;GO;87082697
+758;Rua 24;9179;Setor Sul;Goiatuba;GO;17648467
+759;Rua 24;9275;Setor Sul;Valparaíso de Goiás;GO;22560629
+760;Rua Goiás;104;Setor Central;Jataí;GO;53841852
+761;Travessa 3;4536;Setor Central;Valparaíso de Goiás;GO;05549121
+762;Avenida T-63;8965;Setor Central;Valparaíso de Goiás;GO;52070204
+763;Avenida Marginal;6612;Setor Central;Goiatuba;GO;89760987
+764;Avenida T-63;8925;Setor Universitário;Itumbiara;GO;53394319
+765;Rua 5;386;Vila Nova;Anápolis;GO;76449747
+766;Alameda Tocantins;1459;Setor Universitário;Formosa;GO;36560450
+767;Avenida Brasil;9265;Vila Nova;Anápolis;GO;29635305
+768;Rua 5;4752;Setor Aeroporto;Jataí;GO;98959654
+769;Rua Central;4235;Jardim América;Rio Verde;GO;97439464
+770;Rua Central;4418;Setor Oeste;Itumbiara;GO;32109720
+771;Rua Goiás;167;Centro;Goiânia;GO;44964612
+772;Rua Goiás;5420;Vila Nova;Trindade;GO;70861993
+773;Rua Goiás;4860;Setor Sul;Goiânia;GO;36220334
+774;Rua 24;5142;Setor Sul;Goiânia;GO;94690217
+775;Rua 24;9987;Jardim América;Jataí;GO;66527523
+776;Rua Goiás;3233;Jardim América;Goiânia;GO;67711675
+777;Rua 7;3782;Setor Aeroporto;Goiatuba;GO;47230342
+778;Travessa 3;6777;Jardim América;Jataí;GO;87177546
+779;Avenida Brasil;2948;Setor Sul;Jataí;GO;59095668
+780;Avenida T-63;8414;Centro;Catalão;GO;35869017
+781;Travessa 3;1793;Setor Central;Valparaíso de Goiás;GO;12227643
+782;Rua Goiás;25;Setor Aeroporto;Goiatuba;GO;33444704
+783;Rua Rio Vermelho;7344;Setor Central;Morrinhos;GO;49266329
+784;Rua 24;1372;Setor Sul;Valparaíso de Goiás;GO;92059229
+785;Travessa 3;2526;Setor Universitário;Brasília;DF;29420661
+786;Rua Central;3678;Setor Sul;Catalão;GO;11221215
+787;Rua 24;5353;Jardim América;Anápolis;GO;88064420
+788;Alameda Tocantins;1946;Setor Universitário;Caldas Novas;GO;23421926
+789;Avenida Marginal;1834;Setor Oeste;Catalão;GO;79726999
+790;Rua das Flores;1023;Centro;Caldas Novas;GO;53285386
+791;Rua Bela Vista;2801;Centro;Jataí;GO;07686276
+792;Rua das Palmeiras;7453;Setor Oeste;Aparecida de Goiânia;GO;36841013
+793;Rua 5;325;Setor Universitário;Formosa;GO;77610659
+794;Avenida Brasil;5773;Setor Universitário;Caldas Novas;GO;98384572
+795;Rua Goiás;5048;Setor Aeroporto;Formosa;GO;99255394
+796;Alameda Tocantins;1032;Setor Central;Itumbiara;GO;99670808
+797;Rua das Palmeiras;7571;Setor Bueno;Anápolis;GO;47853698
+798;Avenida Brasil;515;Setor Sul;Aparecida de Goiânia;GO;62706648
+799;Avenida T-63;5000;Setor Aeroporto;Valparaíso de Goiás;GO;83997418
+800;Rua 5;6348;Jardim América;Goiânia;GO;18493784
+801;Travessa 3;2014;Centro;Goiatuba;GO;34444299
+802;Rua 5;9788;Setor Universitário;Goiatuba;GO;72562221
+803;Rua Bela Vista;5336;Vila Nova;Brasília;DF;93965213
+804;Rua Rio Vermelho;3029;Setor Oeste;Aparecida de Goiânia;GO;17327726
+805;Rua Central;5123;Setor Oeste;Caldas Novas;GO;61857591
+806;Rua Bela Vista;5999;Setor Bueno;Rio Verde;GO;52478417
+807;Rua Goiás;3199;Setor Oeste;Goiânia;GO;83611338
+808;Rua Central;9091;Setor Universitário;Luziânia;GO;25152174
+809;Alameda Tocantins;6251;Setor Central;Luziânia;GO;17762969
+810;Rua das Flores;8721;Setor Aeroporto;Anápolis;GO;57390835
+811;Rua 5;7177;Setor Sul;Itumbiara;GO;85759582
+812;Avenida Marginal;7404;Setor Oeste;Brasília;DF;70598445
+813;Rua Bela Vista;7118;Setor Aeroporto;Valparaíso de Goiás;GO;11939781
+814;Rua das Palmeiras;6930;Setor Bueno;Jataí;GO;35158807
+815;Avenida Marginal;7772;Jardim América;Jataí;GO;25513609
+816;Avenida Brasil;5624;Setor Aeroporto;Trindade;GO;73662713
+817;Alameda Tocantins;7379;Setor Bueno;Brasília;DF;15663979
+818;Rua Central;2596;Setor Aeroporto;Goiânia;GO;96660534
+819;Rua Central;4909;Setor Universitário;Jataí;GO;40510388
+820;Rua 24;9487;Setor Bueno;Anápolis;GO;95309690
+821;Rua 5;5745;Setor Oeste;Jataí;GO;35872717
+822;Avenida Brasil;8311;Setor Central;Goiatuba;GO;38775833
+823;Rua 7;8929;Setor Sul;Goiânia;GO;62542041
+824;Travessa 3;4459;Setor Oeste;Jataí;GO;93245381
+825;Avenida Marginal;6667;Setor Bueno;Jataí;GO;22517422
+826;Rua das Palmeiras;3525;Centro;Caldas Novas;GO;70286720
+827;Avenida T-63;7796;Vila Nova;Valparaíso de Goiás;GO;00173259
+828;Travessa 3;8345;Setor Central;Goiânia;GO;16722104
+829;Rua das Flores;2371;Setor Bueno;Trindade;GO;44225216
+830;Rua Rio Vermelho;2993;Setor Universitário;Rio Verde;GO;55132761
+831;Rua Rio Vermelho;1810;Vila Nova;Itumbiara;GO;89126864
+832;Avenida T-63;4241;Centro;Luziânia;GO;83781919
+833;Alameda Tocantins;8853;Jardim América;Rio Verde;GO;86470821
+834;Rua 5;25;Setor Bueno;Goiatuba;GO;30000886
+835;Rua das Palmeiras;44;Centro;Anápolis;GO;91692327
+836;Rua Goiás;666;Centro;Trindade;GO;09984336
+837;Avenida Marginal;5064;Setor Sul;Morrinhos;GO;03401535
+838;Travessa 3;880;Setor Oeste;Aparecida de Goiânia;GO;08240281
+839;Travessa 3;5321;Setor Sul;Luziânia;GO;73536423
+840;Rua 7;5364;Vila Nova;Brasília;DF;90461007
+841;Travessa 3;2880;Setor Bueno;Anápolis;GO;29615120
+842;Rua Goiás;4913;Setor Universitário;Trindade;GO;01915305
+843;Rua 5;1664;Setor Sul;Aparecida de Goiânia;GO;72670866
+844;Rua Central;1320;Setor Sul;Formosa;GO;90350061
+845;Rua 7;1424;Vila Nova;Anápolis;GO;64952549
+846;Rua Goiás;42;Setor Universitário;Formosa;GO;34359488
+847;Rua Central;6080;Jardim América;Aparecida de Goiânia;GO;34123016
+848;Avenida T-63;9024;Centro;Itumbiara;GO;11400347
+849;Avenida Brasil;9533;Jardim América;Luziânia;GO;78550113
+850;Rua Bela Vista;922;Setor Bueno;Itumbiara;GO;71616088
+851;Rua Central;3715;Centro;Valparaíso de Goiás;GO;76810248
+852;Rua Central;1992;Setor Universitário;Aparecida de Goiânia;GO;90696857
+853;Travessa 3;1892;Setor Universitário;Goiânia;GO;42610703
+854;Rua Goiás;387;Centro;Anápolis;GO;41691053
+855;Rua 24;1487;Setor Oeste;Luziânia;GO;05014764
+856;Rua Bela Vista;1614;Setor Sul;Valparaíso de Goiás;GO;39597815
+857;Alameda Tocantins;6928;Setor Central;Morrinhos;GO;72051710
+858;Rua 24;262;Setor Sul;Rio Verde;GO;74148572
+859;Alameda Tocantins;2230;Centro;Trindade;GO;76327135
+860;Rua Rio Vermelho;495;Jardim América;Goiatuba;GO;88693205
+861;Rua Bela Vista;145;Vila Nova;Luziânia;GO;35670789
+862;Rua das Palmeiras;2134;Setor Central;Jataí;GO;32022271
+863;Rua 24;6095;Setor Oeste;Itumbiara;GO;44869830
+864;Rua Rio Vermelho;6513;Jardim América;Aparecida de Goiânia;GO;71068017
+865;Rua Central;7518;Setor Sul;Trindade;GO;44693172
+866;Avenida Brasil;9890;Setor Bueno;Valparaíso de Goiás;GO;93272728
+867;Rua 5;2813;Setor Central;Brasília;DF;28453974
+868;Rua 24;168;Setor Oeste;Goiânia;GO;92902215
+869;Rua 7;4009;Vila Nova;Goiânia;GO;10255501
+870;Rua 7;4826;Setor Bueno;Rio Verde;GO;62962080
+871;Rua 7;925;Setor Oeste;Itumbiara;GO;23763177
+872;Rua 7;6481;Setor Central;Aparecida de Goiânia;GO;13175362
+873;Rua das Flores;9357;Setor Sul;Goiânia;GO;84524032
+874;Rua Central;809;Setor Aeroporto;Brasília;DF;77972479
+875;Rua Bela Vista;8893;Setor Central;Luziânia;GO;70676933
+876;Rua Rio Vermelho;8249;Vila Nova;Valparaíso de Goiás;GO;88382567
+877;Avenida Marginal;6420;Setor Sul;Morrinhos;GO;82225018
+878;Alameda Tocantins;1429;Jardim América;Rio Verde;GO;99290096
+879;Rua Central;4671;Centro;Formosa;GO;03910193
+880;Avenida T-63;7961;Centro;Aparecida de Goiânia;GO;56461607
+881;Rua Central;6974;Setor Sul;Formosa;GO;31336109
+882;Rua Rio Vermelho;6363;Setor Aeroporto;Formosa;GO;57606349
+883;Avenida Marginal;9251;Setor Bueno;Itumbiara;GO;24202483
+884;Rua Bela Vista;177;Setor Sul;Itumbiara;GO;54853626
+885;Rua 5;5128;Setor Central;Jataí;GO;42164359
+886;Rua 24;4292;Jardim América;Goiatuba;GO;37066187
+887;Avenida Marginal;9360;Centro;Caldas Novas;GO;02772910
+888;Travessa 3;4063;Setor Central;Rio Verde;GO;46983306
+889;Rua das Flores;8387;Setor Central;Itumbiara;GO;88653859
+890;Rua Rio Vermelho;4960;Setor Sul;Jataí;GO;21704861
+891;Rua 7;8339;Setor Oeste;Itumbiara;GO;98271826
+892;Rua Goiás;9689;Setor Aeroporto;Goiânia;GO;31354901
+893;Rua 24;2661;Jardim América;Itumbiara;GO;38843021
+894;Rua Rio Vermelho;4139;Setor Sul;Trindade;GO;81503701
+895;Rua das Palmeiras;2462;Setor Aeroporto;Aparecida de Goiânia;GO;29682448
+896;Rua das Palmeiras;9705;Setor Oeste;Goiânia;GO;96127662
+897;Rua Bela Vista;9747;Setor Universitário;Valparaíso de Goiás;GO;24587012
+898;Rua 5;4074;Centro;Formosa;GO;28497603
+899;Rua Bela Vista;1297;Setor Aeroporto;Catalão;GO;75403648
+900;Rua das Flores;6245;Setor Universitário;Trindade;GO;79986491
+901;Rua 7;182;Setor Universitário;Itumbiara;GO;66179962
+902;Rua 7;6098;Setor Universitário;Itumbiara;GO;04134820
+903;Avenida Brasil;4745;Jardim América;Goiatuba;GO;07629143
+904;Avenida Marginal;8850;Setor Universitário;Itumbiara;GO;56422405
+905;Avenida Marginal;6565;Setor Sul;Catalão;GO;98056820
+906;Rua Bela Vista;4758;Centro;Morrinhos;GO;43474125
+907;Rua 5;1018;Setor Bueno;Formosa;GO;61920259
+908;Avenida T-63;4696;Setor Aeroporto;Jataí;GO;90476078
+909;Rua Goiás;2728;Setor Aeroporto;Caldas Novas;GO;95145634
+910;Avenida Marginal;1917;Setor Universitário;Rio Verde;GO;07700409
+911;Rua Goiás;9644;Setor Universitário;Brasília;DF;62038588
+912;Rua das Palmeiras;9836;Setor Bueno;Caldas Novas;GO;33562303
+913;Rua das Flores;1925;Setor Oeste;Aparecida de Goiânia;GO;84311326
+914;Rua das Palmeiras;530;Jardim América;Brasília;DF;72205397
+915;Avenida Marginal;9377;Vila Nova;Jataí;GO;39467662
+916;Avenida T-63;9102;Setor Central;Valparaíso de Goiás;GO;03686050
+917;Rua das Flores;3545;Centro;Anápolis;GO;91203025
+918;Rua das Flores;8740;Setor Universitário;Goiânia;GO;02757454
+919;Rua 24;1979;Setor Aeroporto;Brasília;DF;96558344
+920;Rua Bela Vista;6692;Setor Oeste;Rio Verde;GO;62486070
+921;Rua Rio Vermelho;72;Setor Oeste;Rio Verde;GO;73167156
+922;Alameda Tocantins;928;Setor Universitário;Itumbiara;GO;45315790
+923;Avenida Brasil;9073;Setor Bueno;Trindade;GO;35974876
+924;Avenida Marginal;5897;Setor Universitário;Goiânia;GO;73332973
+925;Avenida T-63;7757;Setor Bueno;Aparecida de Goiânia;GO;92385202
+926;Alameda Tocantins;8105;Setor Oeste;Rio Verde;GO;99829075
+927;Avenida Brasil;483;Centro;Rio Verde;GO;64332262
+928;Rua 24;5923;Centro;Rio Verde;GO;36059529
+929;Rua 7;7013;Setor Central;Catalão;GO;62590620
+930;Avenida Brasil;8565;Setor Bueno;Rio Verde;GO;99798491
+931;Rua 7;3645;Jardim América;Aparecida de Goiânia;GO;61212898
+932;Rua Goiás;9693;Setor Aeroporto;Goiatuba;GO;47422567
+933;Alameda Tocantins;1105;Setor Universitário;Jataí;GO;80613495
+934;Avenida Marginal;7288;Setor Sul;Jataí;GO;36108092
+935;Rua 5;5371;Vila Nova;Trindade;GO;75124764
+936;Rua 5;1746;Setor Sul;Luziânia;GO;24441899
+937;Rua das Flores;4017;Setor Universitário;Formosa;GO;30944238
+938;Avenida Marginal;7099;Setor Oeste;Goiânia;GO;97979724
+939;Rua Bela Vista;6188;Setor Central;Morrinhos;GO;48095739
+940;Rua 5;8691;Setor Sul;Anápolis;GO;58490734
+941;Rua das Palmeiras;4380;Setor Aeroporto;Catalão;GO;23088295
+942;Rua das Palmeiras;7874;Jardim América;Formosa;GO;83173066
+943;Rua das Palmeiras;8991;Centro;Luziânia;GO;62327237
+944;Rua Bela Vista;7636;Setor Central;Luziânia;GO;95417675
+945;Avenida Marginal;952;Setor Aeroporto;Formosa;GO;94589626
+946;Rua das Palmeiras;1783;Setor Sul;Itumbiara;GO;19051881
+947;Avenida Marginal;2162;Setor Bueno;Formosa;GO;72982689
+948;Rua 24;3692;Setor Bueno;Jataí;GO;55707731
+949;Travessa 3;4591;Jardim América;Luziânia;GO;04588311
+950;Rua Bela Vista;8747;Setor Oeste;Jataí;GO;09779780
+951;Rua Bela Vista;6935;Setor Universitário;Jataí;GO;40163295
+952;Rua 24;3415;Centro;Trindade;GO;29158542
+953;Rua Goiás;4914;Jardim América;Goiatuba;GO;67462159
+954;Rua 24;1541;Setor Universitário;Anápolis;GO;98141344
+955;Rua Rio Vermelho;3955;Setor Bueno;Luziânia;GO;02650996
+956;Rua das Palmeiras;3941;Jardim América;Caldas Novas;GO;20222349
+957;Avenida Brasil;5365;Setor Sul;Itumbiara;GO;44614409
+958;Rua Bela Vista;2102;Setor Universitário;Formosa;GO;31995695
+959;Travessa 3;5481;Vila Nova;Aparecida de Goiânia;GO;13444867
+960;Avenida Marginal;3244;Setor Sul;Luziânia;GO;51149788
+961;Rua Goiás;849;Setor Aeroporto;Catalão;GO;58001873
+962;Rua 24;7473;Setor Oeste;Anápolis;GO;09685642
+963;Rua das Palmeiras;545;Centro;Goiânia;GO;23028655
+964;Rua 5;9648;Setor Sul;Luziânia;GO;01663382
+965;Travessa 3;760;Setor Oeste;Brasília;DF;13484339
+966;Rua Goiás;4986;Setor Sul;Aparecida de Goiânia;GO;86449760
+967;Rua Rio Vermelho;5907;Setor Sul;Catalão;GO;97356152
+968;Alameda Tocantins;7746;Vila Nova;Anápolis;GO;33695247
+969;Rua Goiás;6362;Setor Central;Luziânia;GO;92415712
+970;Avenida Marginal;429;Setor Universitário;Brasília;DF;16824979
+971;Avenida T-63;3412;Setor Central;Goiânia;GO;26072014
+972;Rua Bela Vista;4880;Setor Central;Itumbiara;GO;62542926
+973;Rua Rio Vermelho;1310;Setor Oeste;Jataí;GO;26649719
+974;Rua Bela Vista;9359;Centro;Valparaíso de Goiás;GO;16399490
+975;Travessa 3;4347;Setor Oeste;Morrinhos;GO;01679301
+976;Rua das Palmeiras;6833;Setor Oeste;Jataí;GO;68019903
+977;Avenida T-63;9265;Setor Oeste;Caldas Novas;GO;79138601
+978;Rua 24;9104;Setor Oeste;Aparecida de Goiânia;GO;41128745
+979;Rua Bela Vista;1306;Centro;Catalão;GO;74916194
+980;Avenida Brasil;6661;Setor Aeroporto;Trindade;GO;45525274
+981;Alameda Tocantins;8302;Setor Bueno;Itumbiara;GO;00519567
+982;Rua 5;425;Jardim América;Trindade;GO;60700144
+983;Rua das Flores;4456;Setor Oeste;Itumbiara;GO;72820762
+984;Alameda Tocantins;7718;Vila Nova;Catalão;GO;28359994
+985;Rua 5;7259;Setor Sul;Rio Verde;GO;28920641
+986;Alameda Tocantins;1265;Vila Nova;Rio Verde;GO;28144786
+987;Travessa 3;409;Setor Bueno;Brasília;DF;78912139
+988;Rua Bela Vista;4559;Setor Sul;Catalão;GO;90696904
+989;Rua das Flores;1360;Setor Universitário;Goiatuba;GO;52761368
+990;Alameda Tocantins;7534;Setor Central;Luziânia;GO;25084232
+991;Rua 5;8759;Vila Nova;Anápolis;GO;57490627
+992;Rua Goiás;1353;Vila Nova;Aparecida de Goiânia;GO;82863040
+993;Avenida Brasil;6673;Setor Central;Luziânia;GO;82153926
+994;Rua 24;5871;Centro;Luziânia;GO;22061901
+995;Avenida Marginal;5597;Setor Universitário;Caldas Novas;GO;16225647
+996;Rua Goiás;1358;Setor Universitário;Caldas Novas;GO;77814564
+997;Rua das Palmeiras;5571;Centro;Caldas Novas;GO;52761209
+998;Rua 24;7239;Centro;Brasília;DF;67635322
+999;Avenida Brasil;4687;Setor Sul;Anápolis;GO;94300037
+1000;Rua Bela Vista;8772;Jardim América;Formosa;GO;17837659
